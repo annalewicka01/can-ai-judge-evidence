@@ -1,0 +1,54 @@
+{
+  "grader": "Claude Code (analysis agent), against the frozen keys signed off by Anna Maria Lewicka; graded masked, before opening mapping.json; not author-confirmed",
+  "outside_fact_flags": "none found",
+  "items": {
+    "G001": {
+      "packet_id": "C94",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Not established: outcomes measured in instructed passengers; adopts as reversible trial."
+    },
+    "G002": {
+      "packet_id": "C94",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Not established; explicitly separates claim from reversible adoption."
+    },
+    "G003": {
+      "packet_id": "C42",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Not established: follow-up via changing referral; 5% positivity per follow-up both weeks; proceeds accepting uncertainty."
+    },
+    "G004": {
+      "packet_id": "C42",
+      "claim_correct": false,
+      "action_proportionate": true,
+      "note": "Supported (wrong): treats survey as independent, misses referral-dependent follow-up. Action is in the key set but rests on the misread."
+    },
+    "G005": {
+      "packet_id": "C36",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Supported, bounded (no mechanism claim); adopts."
+    },
+    "G006": {
+      "packet_id": "C36",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Supported; adopts with review."
+    },
+    "G007": {
+      "packet_id": "C17",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Supported; proceeds with review."
+    },
+    "G008": {
+      "packet_id": "C17",
+      "claim_correct": true,
+      "action_proportionate": true,
+      "note": "Supported, as proxy evidence; proceeds."
+    }
+  }
+}

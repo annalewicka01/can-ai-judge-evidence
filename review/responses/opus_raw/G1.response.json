@@ -1,0 +1,104 @@
+{
+  "id": "resp_KLWs_5TM0rq1yT2g98N8AbQyqxy0kP9Kesp3_thTwWnnee8-f5dRzR3HtawNidX3qNz-WgT55jaeiJ6olqimHv134vYgDZcg24NWEzbVbEEcnvMwLxi0FY-uTT1w4EjWgepCb-zLQpy-MpQErG4xAdPCp-ryJLXdo6uifLQ8bnNPEn_ISp8zeCpJp_-5J6dgj3mSUSIU_JJgVZfRTaBLkAYoLNMekkQyzpaDvGr-7i-XnBCHa7_Z1Wzl7WRFaWbir2p5rra92iFf5WXn0EHvbRDHjKwAvB-Cq72KQMTqg2n1z8sRJfN4F7Nl0ukm95vw7Wrb6O8YsAcPnIvOTd3F60lnSFbW2ptgssUkxL0DSB8U-RpIEutgeGz1P3Bnm_qoSTfrA0aqV2OX_WeZibwesGrjuB2Qk0_wVbRLjLjoAWofG48XMOAr8YfOpezcvw07balciMt-OZtBv7PcTUO1wqGJQm8-D7EHSdru5oGbBN55Dru0NBkTblW0GwugG0I=",
+  "created_at": 1794755822,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc19lZDVlMTdkZS1mNjU4LTQxYjQtODRkZS1kN2EzOTI5ODg4Yzc=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQSlQsKEggTEAEYAjgBQgh0aGlua2luZxIMSxJ47rTUtFnK6gPNGgwETZlUtlsA+R4vTmYiMPr3dmUAB3I7y+a/lOlcGynS2fAaYZh2ils5Xx0maO3z4Kc/lMc+3dqq6oGdp6Pq5iqwClhq9IRcSZH3dFc2oXr/1Zf/VYNLQgbIcaiA7U06FrlXOUv0rLtqzV6pY2HZUTmXzcV8rGVcOEvTDYjYFaDf4BMA8qAlbHiNuvkYtOG6kfKqJIbWYqVZh7pE1CYUuWhIJE2Slq9mqu9j3tKCfRLdXZH6q1L6/JH/pcJ2MQZqU+GhzNMY3eLMIIMaFDVrE1eZ+VH9rb9IMvS8XtVCq26M3agiwS4cbUlb+8XrhHJXrnjBDRZpaColLtcwCUSjPh+7ByrnijzblNRnCvEoOGS/bRxEaESkOVgngJpGp//vOLp+S5y4CXi725Sl3cWc9GgYENUbgbBLY2gGCgk/VlUxURlqVTm8UZXpvpQ1D7XLODxAR5kw3QiCSgwhnvwzKc5oRxbuky6za+r7vjjaO87RQSGajK+ikI0sKbHDoIortcVY8nIE6WwriA+fv4VZIOQ8QQRhxWp/gKlH+ofhSF24MOSY0wgbF+a0R/KB9WTruwtwqoD2StuoonQQGXmJiljnh3dFSmX/XFT+ylWGnYyy43tq82TsuMq4OIRNxYvs38wd5uun7dhhUSRUPTsJwGifoljJ22FWSFIVRajPg/848nisax2HMiQkuqJXQri7fqinT7/IZ28lgN6EKJ2jYT3FhcDOEmJ41AQjbrJ+dVb0glYXKdQXN7SjB9geN+fMwyEyZSTDqUjAzPUSuxuI20uLXeemt/uUcRkQkpIs3UclNeIg1yhj7pvbBHszNifgSox5EU7y/M2rKBeE8Op+xege5IMclLgebvVVPiYJDlal1onBeTDqXorXRqMWF8+YdE3RyfObplzkupcSqwMp6DdkDmyu/f9cZt17ULV70U6CWkBuM4nDF2wO0wRf+V4U86k7CX0O7QIhSI75RhQ27W2fVcFIvpwnfP2TA+eMSnxsZ2xiEA/q4vTUzcuohx49+7hjEzeXjwEqnIkbfVeYYUSHrfG8edP/imhZr6HttR+4ffXh2f1169WT3SpY4bSWk1B8onDOI7mzSlnCZxXxE7K4x/3FLPwX9UqDG8nl5CCrqZNvRxEYxdRLtilx89VxoxlYdjaxNiZflsiQrUqAsMIyjOciqbnwXgn37w2usrch0VKICwwHyhGeGfG7WUzxODvBGkGeb3nc5hcTft0L8nctGWTj/pbNNlvf+zUiGD9a/XiiH41m89foJqUCclKDC/BWi6u6btmWKViu2q+bYuKu2e+uI/BI0JaMvViBQmxxf+rabKQ6lOOESluyZSjWw7Bk1nUwCtVQkwzsPIe86WC01ZZHj+w5vJuANFubMHFpjFJtF3pYOkltOmB+YDdwzagr67PUjHudBGp9Kf9of7pPmD++quijensi4VkFX8KcNjQjuWhFfM28CIkdxwHBL1PCiLlzJGmjx/6wI76+dQq3EtN32HkAFL1HcNkeNMpjY3BWuHw+z+S60WPPRnW6IaHc7Dst+hua4/uuMbG+uc1QnhhGEspJT6YOksCrvW+eeO/sQP/gSZTmOlncfaz4ww5MC07PviOSwS1Ni4OBSRkSVzNi4kwqAwGqBDqic36p1Ob/1Nns+SUO/sSmCvH16vfbkKKm/fyWbmKTUb787IeDMgVS3VQIB1pm0Juz8rkneAdulO6bQFtMj/d9ct0WYsor6UgpmRddf3uOOtLMEgqjpCTSsWw4vA3Q9u8SRyE0GwwyafUaUjpHHxH4RXvGIGMZdqqd7udkTf72v2AxsyTY2TutgeXlSqVIoYgPOLiC5GMalC+CyKG/d7ox37OfhRH9GAE=\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_019c62c0-f147-4a32-b47c-d9a8b59b6dc2",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: same v3.2 threshold as pilot, so the registry-linked missed-cancer review (0/1,398, upper bound 0.21% below the 0.5% threshold set beforehand) applies directly. Y: v4.0's recalibrated threshold returns about 17% more borderline lesions (52% vs 35%), backed only by manufacturer retrospective testing; the local safety review and H3 rating don't cover this, and UKCA marking isn't local safety evidence. Minor: the '100% sensitivity 99/99' in section 4 is near-circular; section 5.2 does the real work.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 3018,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 3018,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 1211,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 4229,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "resp_R_HPRH5mkC8GEZ5j3Yn80erwAlQZk9FVcTyWtWatZgvtxIFDrrkOUX7K_Sk2o7qqbSRd-1S5x4pVZa93k6oUlDiGcJ3xY6Hznw2nUtMfjldhV1WhyC4BBa1gETZwZC8mX8RR6Tf3BM2QRjsJYn40gY0VR7KMd6QpFSdT6oW2rji3hnc3S9yHJDsHqs2I7VuQCv7eglMpBibnGcBumlfmBD2Icry_W-dAweqKXjFB3l_yQolzPf9Lv_UuxsMFMAWAs1MWD1kxomnnX13E6pMv8q6wGYq9RbEvHnKKm7dAZXiODUuxakXCUZ4lC9Ca840Iq1d5VxDeqUR6dKyWcU_GVlRehbsN2y3pmfjt6mvSTJhGdwFneRfiIGK9Lq3Vlz49e4M-xTWseXm-M8ftTTfeq9OhKstllWFk7OMaPL_CR2tmzQqh-Cbq1iQ515Pzb7xXRDq7VsWAKSd9g8x9GukRGEubz6Unat7w8Uv6jZAOL2LTbTSByBUQ2YiXq9XSn6Q=",
+  "created_at": 1794755846,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc184MTM2ZWM1OC1hMzNmLTQwNmQtYTY1Ny01NTZlOGNiMTRmNjQ=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQSsgkKEggTEAEYAjgBQgh0aGlua2luZxIMI3lmH4+XaRJ2VQ5QGgxwHsG0yCFkHVvRqhsiMGNejMXN0gB639JFiojNFBZtrJou39YInZhWtWwXxm7iYkeGMLS2wIFH/7V6JCTgZirNCC3JDj3QNgVj7wJYKbDSKRkrsOdDGu09CFwtiUrnkuE4qQM6Sw7EucCIdJy+wR/DQml1Akla7ptcg7ZgYu+EpsGME4ghbWam3uZUuSdYsJ5mV3kTCTuRQC8Ho4gxUK5ntB6/IbRp5eRxXcUYJpmIId2ZRuWHZBUOJn8ltMOULWuuZiN11qZLsKmZpW/OCw2Lkat7Ruj3+dtNzNq4dGdCoRpq5n28JufK9iVBwaLVadHItMKVzd0CkoeOWRijbbQtwqYrOkJ+a8O93fF7GfkdIP32bXyi41ElpHLGqrkL7wYZna+VXFkvFeUuoB/PB2U6hhU0CFiWahyZ1y3153I7iCa/CAOtgMStAZ/2k3BVnfzG4i32/fFpLfwotSaxgud1L8FkJaY5yrzHHnxtp01STSXgT4IPcqEs2ykHEXUscddeTEpl/g4vRgR0LgNDCLaQC3YRPP9Jn+cwbgbUyT4Qiq0i0CCeKI2k5z/pCy2BpJfCNRHgNSKt1kLmewStod/rqCDoS0oItIrx9U6/kdPsC4H+ma8kE008DpmrOSnj07hHbQfvp/beq5o9ayEHRAIe4mUxGSzUuL86DFHVPgktLD1qU0Jn9n3Bd55/JvfQEFkelFTiU+h8rmdhDNQ2/9amN+c2aQI0YqnABIK/JXrtscBsylbDTeTWFyF1KNONEXFCv+V6HMIu6F5Y/SAYdsl0hPZChqE0junhqiCJssAf2ffR+mVd+hjnfVkTVWhAmPZfAPRmAst9kQgj4CYEQ9gxc+6yIAlbZb6Y7MG0P7bHfcpnpQAu9EEfUrKDJZKUT7PXvPa/XzjyiwYfE2jzkapHC7Q36KWywDI1c6Iu6itW/2xd6uS/rADgx2DNSpWM0ArKstY6L1lqrD1ZGQ3TUBfUZxbps6vjmAPtUdzrjy4C/J/Et0TqKBJ81pSSA+/wNwiY4iEWR/V3rU5GPlt6Qr95ErEsgtBVYb0+ASGF1bH14d1bD2nMOMhYQxerfP/TTWguZuWQVurvxKiz3BjuJyQ37JKavm/Zg9X2CPFbNXPnDEtJFZFgWKUnTwXyffbvD6v24HegxeIljgsSMZAggcC0ABzc4tRKa+GI+u3wSWeLrxsTsWn1bJSO95EVpe0vrtX5fYZVpOq6mbsXyaKtOsPF/erRmFVwFq4M4K1GEkIy8E3YR47Iwq8cqLeosuC6mlixCF3AI9G+qfHUqGGrCUkVfPeewlsr6PeN5+oX2qs0lXoLPik8UAtsJ2XKj5cy+ZOo5+x+rAEkddxeCovo6+4hKkYa5B834QdUjgw4c525Qa0QTx7IIRuNF2lAkvRGgmjjinjbBSRFfSEp/U4+tW9FgRlrrkHSFHM6iIa5ai22kFuZHYtpjtvEWHlO3ANw6QaDUHeKifNiwZz0lNNGknvEvZ5pUfZ5kcRx9A1udwy/7Dlhy7TtQHte52W4be/WfJp3KSqZKKKhE/5rVJNZPhgB\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_aea35e72-028b-4844-a9e0-dc07fc4e40a5",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: registry linkage of all patients by any route, 12-month follow-up, 99.4% linked; 0/1,044 gives an upper bound of 3/1,044 \\u2248 0.29%, below the 0.5% threshold set before the pilot, so the result can be trusted. Y: cancers are only counted if found at colonoscopy within 90 days, but low-risk patients don't get colonoscopy (repeat FIT is at 3 months), and data run only to 30 Sep 2026 for a pilot that ended in June. Missed cancers couldn't show up, so the '0' tells us nothing, and the safety case rests on it. The answer key looks fair, and nothing seems clinically implausible.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2814,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2814,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 638,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3452,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

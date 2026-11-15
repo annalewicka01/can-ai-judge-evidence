@@ -1,0 +1,104 @@
+{
+  "id": "resp_nHeU6wPo2DINGaKsBFweMvjjdXFgKHRSUiFsO6QGD1AnidL730JC7F3pJLrJLC_TZOrUac9wk24l4dmlP4T27QunqZg0EG_VieykKgWVGVY_uJNI2HjjeaOQZ3CG8_mpU95-r94sq820q4DTp1_rO5GjO86bk14XjgCIJSYbipY6ZUR7XD0IJioy4_fQlTWrbRvOIs4Bkd0jmCHLcQEAKKs0GfnPcf46N5B3XKkiidBoWN8YB4mmaCA_GJmc3cI3qUx5OCoEuBzpkTvcsRiXcA6VFf3R_dVBv0Qu0CJWA-53TRBnKxGgKs4goLItJPRmgUBg7_IJY3I045fG-cNIE_YItawEw3x8rzvgOEZPs07Q1xaSH2OZyCkTeOMqRQwFMVabmeDbK6XPa7l7bhLSzBnalgp06IJQDU3OgCfI1TV1H-lJmrjZdr2PW_zrfLu9eREDVWFIJtlh80ip9_lgLMTmHod6tcFz4aGg42G1of65riFLVtZsrY9vxkaX-e0=",
+  "created_at": 1794755839,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc19hZjhjYzRkNC0xOTRlLTQyM2YtOTQ4Yi1mYTY3ZmM3MTFjNDU=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"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\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_b822f73a-c25e-4e59-8385-e6112f5ca4a6",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: intention-to-treat analysis of all 1,162 patients, national linkage at 99.5%, a non-inferiority margin set in advance and a confidence interval inside it. That's enough for a commissioning decision. One caveat: the comparison is matched, not randomised, and lower uptake in the most deprived quintile suggests self-selection may make the 31% look bigger than it is. Y: the 214 excluded patients include those who died or were admitted for more than 14 days, but the comparator group isn't filtered the same way. That biases both the admission and mortality results in the service's favour. A 6.1% death rate among patients who completed six months is also hard to square with excluding deaths during those same six months. Local records may miss out-of-area admissions too.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2546,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2546,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 761,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3307,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

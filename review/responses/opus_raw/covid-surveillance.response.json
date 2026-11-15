@@ -1,0 +1,104 @@
+{
+  "id": "resp_PWR5gUzgv5XVf4V8q_IpjQoclSCjUf_6oeg4wrFyH7J_PV1rPMfnMyCdwgXG6ZR_5B_tP-jJvsBLvXNE38nnKQzhlYxkwSrc4qT2DXUDQABTKmi23obcuKEKnx_QBU_ezK8gRNBpzoE1R2m6ufIbH1A8NbKyk8s71ddL1WDfN6BYCTTR_2b4qmhgDHlPTdeBiQVy61EKcaUSJfWsAoZ0o0Fr5PUjH6GXCtB4tztXfkq1x8llkQ2V3WGP2wil2U2qnSyV4hIOFcVEuxyyf-i76ujkhcKKMq6yPbJK5bJR904K7YvHPqQREQNlj8UW7wQ7jdJqxo_85ht2Cd1SRaZR9bvG52-Mk5Tu3MgdL3ZBgySWvshpVKbNwGCGFpS-u_AsCtB63LBNCAHFwn5z5sb163ei3FJ8DBTfRU0-14xjD5X4rYjq8u_r8FFsVtAnRySjemeXhLXKT866Q8C6NEolO6HvQe5501DabFb-ZBaIqxrlAH5FRNGWTcos7Zite_M=",
+  "created_at": 1794755860,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc184ZWQzYmY3Ny0wYjUwLTRhZTUtOGZiMi01MTg2MjBhNzU1ZmU=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQSzQcKEggTEAEYAjgBQgh0aGlua2luZxIMn/879RACOYZAs8OMGgzJU6Z3PUoMXlhrsLkiMEU28G2ipKV5HlMBs9asyMWTobeyO07uzxU9SXHQGZJwdBE4fPbufGA6oDXSSyoI3SroBvNi9BliMWpv/Q02RZy48bbblzCp6kpuzsJ9mYYAYv+TuxiKf0uRx+RCTwUAiWZrrn2GuEyEX+WYFrTcLtP3Maxe7DQLhVRJNAPvY/DYLGDPDBKMgG84uGEeiXAG+naFe0tawTN9D/lDM0nPcvLtdW5Vn7ZO5oaRqYriDtSMj2I7JVAEPBz/KE6fLPqaqEOWFpexrlywQFeAoOcQ5Q3rqllno5b1IGgKiGRfadXj/AMn1nOpFJxQYhFiCNVX7qRUe2HVynzJAi/LxzZmUeUXdKKMWQWhGJwKHCinUjsTG8gelIiSV7YUXyMwtiWzYcP/NoNXP8zDrtvgsqwEDgi3moFIL3YMbEYKkWhcO8zX6m4iG4kTZ+cG2LLYCEiPdPIMz9Hvx+ek7XDe3hDJHRJNPI0CisceEaId6zGs4SQX8wMdyMb3cJLKCoUwcHcAdat/vQnyhNRpm7qVvup46Ab55bZZP33eMO5UU+ktBffhA+PoX2njgEdEUd+rkyBW53C15gzSWLKb5f5vzgcJzkcoF9uiLbQ2wmr9FH/+7o/8axOS4PiHajLO3odBMEg9yaLdkidJzMN6oZvD+opTGzcoFU+MTyk8XeEIhSoZAG+1LWJZVCRf40y7HMzoP8tiB6ur6VfmmJ6rgXN8iwp2XZT8BPDB8RQXaXkrh1IfqhkDwb+YfJaVc8OEgwXD0VMOc0E1Dk6waRMjwHdm8Ewf48MpvfR5j016Rbub52YEIuSU7DRQK4ctSmV0rfAyW9I4Qq+JtflnSTVfs38jXwFCNVqj1JqLy7NxVxlZtdAbf1ok43OSUJshsTH6IAo8mT/bg7k5nDY6PPXJAnk+j/RcplKzJDSKAOrate5+IMK26MFjA87iVkeJCt2Uh4VOgs7lxKL+7l4NaJi2LKuOzkRUstaMeai0nTUg9ROCpEC1G2qcGZJnW0A2eadhTr4+nLYxuWgmIWOaI1PN/lUICRoYjDytpZnBoEboyVGv+s4byRAAOf4/Aedb4WWwBWh9k39KVmPF+nlkdfm2dRCUERrAnl71P1i8uj6Wu/u7/e3mQST7TTU9wBYpWXutIhModjdBnXlrG5f5hQywp+VMKV/PoUT1HFTnidhsasIZbZyntEv1XgtZSv0b7O2IsbZ5Ry2TpdpUi1uRhh6CLJLeGAE=\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_00ffe0e1-2d21-4f20-8105-b64550f892d5",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: follow-up swabs were scheduled whatever people's symptoms, and procedures stayed the same, so the 0.60 ratio (CI 0.42\\u20130.86) supports a real fall that isn't just about test access. Y: follow-ups depended on the narrowed referral route (2,000 vs 1,200 completed). Positivity among those followed up was the same both weeks (100/2,000 = 60/1,200 = 5%), so access changes alone could explain the whole fall. Neither result decides the policy.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 3014,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 3014,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 466,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3480,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

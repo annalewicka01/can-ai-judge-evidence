@@ -1,0 +1,48 @@
+{
+  "model": "anthropic_claude_opus_5_5",
+  "input": [
+    {
+      "role": "user",
+      "content": "# G1\n\nA skin referral service plans a wider AI rollout. The committee must decide whether the pilot evidence supports the proposed service.\n\n## Shared paper\n\nNORTH VALE INTEGRATED CARE BOARD \u2014 QUALITY AND PERFORMANCE COMMITTEE\nMeeting date: 24 September 2026 | Agenda item 7 | Paper QPC/26/071\n\nTitle: Expansion of AI-assisted skin lesion triage to the North and East localities\nPresented by: Director of Planned Care; Clinical Lead, Consultant Dermatologist\nPurpose: For approval\nPreviously considered by: Planned Care Programme Board (supported, 2 September); Executive Management Team (supported, 9 September)\nRecommendation: The Committee is asked to APPROVE expansion of the pathway from 14 to 41 practices from 1 November 2026, and to NOTE the assurance on clinical safety in section 5.\nLinks to Board Assurance Framework: BAF 4 (elective and cancer recovery)\n\n1. Executive summary\nSince 6 January 2025 (pilot closed 30 June 2025), the pathway has triaged 4,020 urgent suspected skin cancer referrals from 14 practices. Dermoscopic images taken in primary care by trained healthcare assistants are assessed by a UKCA-marked AI device. Lesions the device assesses as benign with high confidence are returned to the GP with management advice; all others proceed to consultant teledermatology review or a face-to-face appointment. 1,409 referrals (35.0%) were returned to primary care, releasing about 1,400 face-to-face slots. Performance against the 28-day Faster Diagnosis Standard rose from 71% to 93%. No missed melanoma or squamous cell carcinoma has been identified among patients returned to primary care (section 5). Financial impact is set out in section 8.\n\n2. Background\nUrgent dermatology referrals in North Vale grew 18% in two years and the service has breached the Faster Diagnosis Standard in 9 of the last 12 months. The device is used under national early-use guidance that permits use with safeguards while local evidence is generated. The North and East localities (27 practices, 212,000 registered patients) have a similar age and ethnicity profile to the pilot practices.\n\n3. Pathway\nImages are captured at the practice and uploaded within 24 hours. Images the device cannot assess (6.1%) go to a consultant. The device assigns one of three outcomes: urgent referral, routine referral, or return to primary care. For returned patients the GP receives a letter with the device outcome and standard safety-netting advice; the patient may be re-referred at any time if the lesion changes.\n\n4. Performance\n| Measure | Baseline (2024/25) | Pilot |\n|---|---|---|\n| Referrals triaged | \u2014 | 4,020 |\n| Returned to primary care | \u2014 | 1,409 (35.0%) |\n| Consultant teledermatology or face-to-face review | \u2014 | 2,611 |\n| 28-day Faster Diagnosis Standard | 71% | 93% |\n| Median days referral to diagnosis (cancers) | 31 | 12 |\n| Melanoma and SCC diagnosed | \u2014 | 99 |\n| Sensitivity for melanoma/SCC (section 5.2) | \u2014 | 100% (99/99) |\n\n5. Clinical safety\n5.1 A DCB0160 clinical safety case and hazard log were reviewed and signed by the ICB Clinical Safety Officer on 28 August 2026. Hazard H3 (malignancy returned to primary care) is rated low and acceptable, with reference to the review in 5.2.\n5.2 Missed-cancer review. All 4,020 pilot patients, including the 1,409 returned to primary care, were linked by NHS number to the regional cancer registry and to GP records with at least 12 months' follow-up from triage (linkage 99.2%). Melanoma or SCC diagnosed anywhere in that period: 99 patients, all of whom had been routed to consultant review; none among returned patients (0 of 1,398 linked; one-sided 95% upper bound 0.21%, below the 0.5% threshold agreed by the Programme Board before the pilot). An independent consultant reviewed the images of a random 10% sample of returned patients (141) and identified no lesion that required urgent referral.\n5.3 Incidents: two incidents (image upload failures), both no harm. No complaints relating to a missed or delayed diagnosis.\n5.4 Agreement: consultant teledermatologists agreed with the device's referral category in 96.2% of the 2,611 referrals they reviewed.\n\n6. Patient experience\n412 survey responses; 91% satisfied or very satisfied. Free-text comments mention faster appointments and, in some cases, uncertainty about what the GP letter meant.\n\n7. Equality and health inequalities\nThe equality and health inequalities impact assessment has been completed and found no differential impact. Skin type was recorded for 88% of pilot referrals (9% Fitzpatrick V\u2013VI, in line with the expansion localities).\n\n[Read passage 1 from your chosen version here.]\n\n9. Risks of not proceeding\nContinued breaches of the Faster Diagnosis Standard; regional escalation; the NHS England cancer alliance has asked for a roll-out decision this quarter.\n\n## Version X\n\n### Passage 1\n\n8. Finance and workforce\nDevice licence \u00a33.10 per referral. All sites, including the pilot practices, remain on software version 3.2 with the threshold used in the pilot; the proportion returned to primary care is expected to remain about 35%. Net release \u00a3612,000 a year at full roll-out, from avoided outpatient attendances. Eleven additional healthcare assistants require two days' imaging training; the training provider has capacity in October.\n\n## Version Y\n\n### Passage 1\n\n8. Finance and workforce\nDevice licence \u00a33.10 per referral. From 1 November all sites, including the pilot practices, move to the manufacturer's software version 4.0, which is covered by the existing UKCA marking. Version 4.0 uses a recalibrated benign-confidence threshold; the manufacturer's retrospective testing indicates the proportion returned to primary care rises from 35% to 52%. Net release \u00a31,020,000 a year at full roll-out, from avoided outpatient attendances. Eleven additional healthcare assistants require two days' imaging training; the training provider has capacity in October.\n\n\n# Quick paper review\n\nThese are invented committee papers. We want to check whether our expected answers are fair, not ask you to approve a real service.\n\nRead the shared paper once. At each passage marker, use the passage from Version X, then consider the same paper with Version Y instead. Nothing else changes. Allow about five minutes per pair. Do not open answer_key.json or RESULTS.md before answering.\n\nFor each pair, answer:\n\n(a) Version X: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(b) Version Y: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(c) Optional one line: anything clinically implausible or unfair?\n\nFor the COVID papers, the headline means the exact claim in the final section. Supporting that claim does not require agreeing with the policy.\n\nStart with **F3b, G4, F2, covid-surveillance**. Next try **F4, G3**, where reasonable readers may differ. Then F1, F5, G1, G2 and covid-masking. Just the first four to six pairs is still useful.\n\nUse responses/TEMPLATE.csv: save a copy as mother.csv or owner.csv. Leave unread pairs blank. Written answers on printed papers are equally welcome; the owner can copy them into the CSV afterwards.\n"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "review",
+      "strict": true,
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "max_output_tokens": 4000,
+  "store": false
+}

@@ -1,0 +1,104 @@
+{
+  "id": "resp_Z0zLOxgLwe0VO1paGLUafs7miqbXcu-JPa17lQZf-M5sSFjrSSK51ZVWKFJgFmJ8qY_PPo2Ge9BI9ebBC8HYNP6RQFZ-Yi7pl9k0PttkZbSoBBbRj3GyqTDRIy6Zegu4NR-nNiA4-pQXVmDZ5sFJ1XYox_ep3TnqQoQ_JIxO7LhOJkHvsTpOv9dAhpMcbcP7oNYtcbk8yeif9S1ZiX97lS-bNvaB2S5afx36LRkJqeqpw3iz3mhp6aPSHoMtWZrl-OpYS-wHnvSfcuw2VeROdziMZ5FI9_O9dTGTS290KLHFRUeHJgGUWP0aXQeQT1S8mb3VrtGdmRmwFD5s4ArfCeCmPrnYExRspWwC-9YuvNzeh6pMUUguF8A9EN-f0b_Zpds1H_ozqJL5OtPaSyW4IvFZYZ2RuIhN3D8L40_h1deCZqxCzteQgJyiQB5K65MC5sx4lBPbvwOJStZnA-y3xI5te2y_rGyw9ABqF_n5gKwaK_f3rgpfJLzH2COsCzE=",
+  "created_at": 1794755783,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc18yNTc3NzVlYS1jMjRiLTRlZWYtOTQ2Yy1hMDI3MDRjMzE4ZTU=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"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\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_ea4e04ad-4255-44ac-b432-04178665ce5f",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: the reference standard is independent and blinded, the random live sample has a pre-set threshold, and the upper bound is right (3/683 \\u2248 0.44%). Two caveats: 683 films can't rule out rare cancer misses, and nothing shows the other sites' patients match Northgate's. Y: the shadow labels are contaminated, because radiologists saw the AI flag and labels were pulled from reports by NLP. Live checks only reach patients re-imaged within 90 days or raised as a concern, so most misses would never be seen and '0 missed' says little. Fair contrast, nothing clinically implausible.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2562,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2562,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 797,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3359,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

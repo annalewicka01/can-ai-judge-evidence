@@ -1,0 +1,48 @@
+{
+  "model": "anthropic_claude_opus_5_5",
+  "input": [
+    {
+      "role": "user",
+      "content": "# G3\n\nAn AI service monitors people with heart failure at home. The committee must assess the reported outcomes before extending it.\n\n## Shared paper\n\nNORTHFIELD AND DALE INTEGRATED CARE BOARD \u2014 STRATEGIC COMMISSIONING COMMITTEE\nMeeting date: 26 November 2026 | Agenda item 9 | Paper SCC/26/131\n\nTitle: AI-enabled remote monitoring for heart failure \u2014 recurrent commissioning across all primary care networks\nPresented by: Director of Strategy and Transformation; Clinical Lead for Cardiology\nPurpose: For approval\nPreviously considered by: Cardiovascular Clinical Network (supported); Digital Transformation Board (supported)\nRecommendation: The Committee is asked to APPROVE recurrent commissioning of \u00a31.34m a year from April 2027, extending the service from 6 to 19 primary care networks.\nLinks to Board Assurance Framework: BAF 2 (urgent care demand), BAF 5 (population health)\n\n1. Executive summary\nBetween April 2025 and March 2026, 1,162 patients with heart failure (reduced or mildly reduced ejection fraction) were enrolled from 6 primary care networks. Patients record weight, blood pressure and symptoms daily; an AI model flags deterioration risk to the community heart failure team, who contact flagged patients the same day. Compared with matched patients from non-participating networks, heart failure admissions were 31% lower and all-cause mortality was similar (6.1% vs 6.4% over six months). The service reduces emergency demand and is safe.\n\n2. Background\nHeart failure accounts for 5% of emergency admissions in Northfield and Dale. The community heart failure team has 11.2 WTE specialist nurses. The AI model is UKCA class IIa.\n\n3. Service model\nPatients receive a tablet, scales and cuff. The AI model generates a daily risk flag. The team reviews flagged patients the same day and can adjust diuretics, arrange review or advise attendance. Unflagged patients receive a routine call every 4 weeks.\n\n[Read passage 1 from your chosen version here.]\n\n5. Patient experience\n78% of patients rated the service good or very good (n = 640). Some older patients found daily readings burdensome.\n\n6. Workforce and finance\nExtension requires 6.8 WTE additional specialist nurses (funded within the \u00a31.34m). Net admission avoidance is valued at \u00a31.9m a year.\n\n7. Equality\nDigital exclusion is mitigated by device loan and telephone support. Uptake was lower in the most deprived quintile (58% vs 71%).\n\n8. Risks of not proceeding\nContinued growth in heart failure admissions; loss of the trained team.\n\n## Version X\n\n### Passage 1\n\n4. Outcomes\n| Measure (six months) | Monitored | Matched comparator |\n|---|---|---|\n| Patients | 1,162 | 3,486 |\n| Heart failure admissions per 100 patients | 14.2 | 20.6 |\n| All-cause mortality | 6.1% | 6.4% |\n| Emergency department attendances per 100 | 31.0 | 38.4 |\nAnalysis population: all 1,162 enrolled patients from the date of enrolment, regardless of withdrawal or admission (intention to treat); 214 patients stopped monitoring early and are included. Outcomes are from national hospital episode statistics and civil death registrations (linkage 99.5%). The mortality difference (\u22120.3 points; 95% CI \u22121.9 to 1.3) met the non-inferiority margin of 2 percentage points agreed by the Cardiovascular Clinical Network before the service began.\nComparator patients were matched on age, sex, ejection-fraction category, NYHA class and prior admissions. A DCB0160 clinical safety case is in place; the hazard of a missed deterioration flag is rated medium and acceptable with mitigations (routine calls, patient safety-netting).\n\n## Version Y\n\n### Passage 1\n\n4. Outcomes\n| Measure (six months) | Monitored | Matched comparator |\n|---|---|---|\n| Patients | 948 | 3,486 |\n| Heart failure admissions per 100 patients | 14.2 | 20.6 |\n| All-cause mortality | 6.1% | 6.4% |\n| Emergency department attendances per 100 | 31.0 | 38.4 |\nAnalysis population: patients who completed the six-month monitoring period (948 of 1,162 enrolled). Patients who withdrew from monitoring, were admitted for more than 14 days or died during the monitoring period (214) are not included, because their monitoring data are incomplete. Outcomes are from local hospital and GP records.\nComparator patients were matched on age, sex, ejection-fraction category, NYHA class and prior admissions. A DCB0160 clinical safety case is in place; the hazard of a missed deterioration flag is rated medium and acceptable with mitigations (routine calls, patient safety-netting).\n\n\n# Quick paper review\n\nThese are invented committee papers. We want to check whether our expected answers are fair, not ask you to approve a real service.\n\nRead the shared paper once. At each passage marker, use the passage from Version X, then consider the same paper with Version Y instead. Nothing else changes. Allow about five minutes per pair. Do not open answer_key.json or RESULTS.md before answering.\n\nFor each pair, answer:\n\n(a) Version X: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(b) Version Y: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(c) Optional one line: anything clinically implausible or unfair?\n\nFor the COVID papers, the headline means the exact claim in the final section. Supporting that claim does not require agreeing with the policy.\n\nStart with **F3b, G4, F2, covid-surveillance**. Next try **F4, G3**, where reasonable readers may differ. Then F1, F5, G1, G2 and covid-masking. Just the first four to six pairs is still useful.\n\nUse responses/TEMPLATE.csv: save a copy as mother.csv or owner.csv. Leave unread pairs blank. Written answers on printed papers are equally welcome; the owner can copy them into the CSV afterwards.\n"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "review",
+      "strict": true,
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "max_output_tokens": 4000,
+  "store": false
+}

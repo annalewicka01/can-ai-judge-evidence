@@ -1,0 +1,104 @@
+{
+  "id": "resp_BWFxu6xh8RziBD2PC8nP-AYizGKt-18zAdxJDVyxA5NJ6i9osSiLYim7shP_hsAUrWudCwISMjpWofcbqusRcY0eWDGptMq6jsCebvdAAfG50lbi-Dyj6QdQoci5CLzQ939RHKUN4zNRkB641FSXECsMEorziKXwQox6o_kKSsSKeqWusGXCogTGbRxoBDWuQZ5-X6oKd6tG4UmDYysfAzzh96r3NLhoFOB_-QrzAdpszqtv6XpBKuM8dF_Ekeqv-NvVEmzmRlCYYtwLl0U7mozMyX-3mmGlrCg_-qh1HJe-2ASfearRjFMaiOP_AlwCcTIw9p9F7lpIujXa5mNsZeJXyRC8oOESjlC4vvBv2Yh9mL7J0EmwevgjgBsHjvub7a6muB-sD4WZvPvbLZFDUTHd4OvDWhX1wH1N3qOif52Z_ArMoATBWGEJKstNb2Xzkwj3tfw7rKVRz67gWO6QZMTNCSPgpICXzn6ZSschKpf0rPJcPmPrDBZbyIRUxog=",
+  "created_at": 1794755791,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc184NDgyYzE0ZS0wYzQxLTQ0ODgtOGI2Ny1iNzc0ZTBhMTE0ZmQ=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"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\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_093fbb65-08e8-463c-b2f8-d5d4fec2a256",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"no\", \"version_y\": \"yes\", \"comment\": \"X: 'no one lost to follow-up' rests only on referrals being sent and not rejected, with no data on HES attendance. The 312 ungradable patients (10.6%) are counted in the 88% uptake but excluded from outcomes and sent back to the routine programme that has low uptake. Y links referrals to attendance records for all 548 (236+312), and the figures add up (232+306=538; 4+6=10 seen by 20 weeks). Nothing implausible; the 240-patient negative sample is 10% of the 2,402 AI-negatives.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 3073,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 3073,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 727,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3800,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

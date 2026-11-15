@@ -1,0 +1,12 @@
+pair,version_x,version_y,comment
+F1,no,yes,x is only including diagnoses made by the Trust
+F2,yes,no,"to make the comparison fair, the results from ai must be hidden from the radiologists"
+F3b,no,yes,no patients being lost in follow-up
+F4,yes,no,readmission to any NHS hospital and death in any setting must included to make the results reliable
+F5,no,yes,"the data is coming only from Trust records in X, while Y expands to national records"
+G1,,,
+G2,no,yes,we are excludig patients with stroke so no point adding a ward for them as in X
+G3,yes,no,selection bias in Y
+G4,yes,no,"0 of 1,044 linked low-risk patients"
+covid-surveillance,yes,no,Follow-up swabs were completed by only a small group of patients in scenraio Y
+covid-masking,yes,no,infections are measured in passengers who did not wear a covering

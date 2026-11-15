@@ -1,0 +1,104 @@
+{
+  "id": "resp_11TaiM2V3PNe8VtA8mF2blnossk3hlFLMY2biwdaVMvHxPeCge_JVLQe_cBBIYO5vwaxuNBTIP6uE2DKY-UtU9H2x_YpFAFsyQ3OiY1XIQfaMgdkPsv74vB0972BSKG5aDScw5KRb58hvdcdAaXQRUTX_X0DpgFi0dGksort4pxFc0gm2W0hVVds6IjR3vzYFLYtrBlYON2kmiCr4fxM8ucj91kLKKCB_4EzeJeTplOtxSZDZ4dLfSRiAX1MGONw0q2nt32X4cHmemqM2YASS54ScXsSHAl1sZN-iTNvUOYNouJtSXojgQtY9qUZRvZPpOg1z0mA1j9gKTePPcrKeRliXq8MoGMs6c20dl2HqLD0EwD0D7-865NESAbYqQQFdzMsfztrz72AAEWiRjUF9D3DPpxRKO48T7YA4g3KDEE2QdBov_5gaxat7zeSe-P_OVvEuhmGHwaCo66pkSGwmZa83kULGylj9xBG6N5jbcQHYg0JY5NJ73u85uTKN4w=",
+  "created_at": 1794755854,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc184MjQ5MWU1Zi0xMzJiLTQ5M2UtOWQ2MS0yZjMyNDY1ZDJmZDg=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQS7QkKEggTEAEYAjgBQgh0aGlua2luZxIM9KG4bwqMY5bhvD5lGgzd9LHVDbiXI48Mt+UiMOPwUT2lrEwe+q8V9ydBesuX/SbCwSjY4GZpu7lUTKH+PrnQkD3iNqBt4Za21TzcXyqICTcAilO421LpIZDzoZ0DOMNQL10j6dzcQcV+Rlb+2oUTyNhUW9UjVQNLNzwV7XR17h9ZQr16cbcnG/eSDUt4Vbs4HBQznirvsDKkrAA+GpKWxYLxpX6YqE+E5W0I7CS58puUAs3sV7y+f4/FIfybfLqNTXadP6HR0blv3iujwJcz3Ho7Ta6YwPsCm2v2LwZZJtPRMRmGhuCq0JIISOFdwjKQrjpy44xq3wRoOAfUdQNonTgjijVpcViOc+w/fHxUfwVvSxjtKiD/5HwUDAf90rA0FMrKmR5wekRp9wjW8FzIRSfW1y//SBJxS93Q4oG/O3/ozBny+P458L3UYDscHdjI+TLedeuKRX64cSX50OL5ERZIvqqXotUvplPkZpOLtXfBEAvM06i6eMbv7HaoK2vRPnSo4sPt32VvXIQnlPFOIstYDEZd1ufp68ppDvdrbI9MsTXI0mUxvXfwvBrdJY/1ayi13xP5BsUuGz0FKbcopg3GXSxDk9bLqscT4e4ei6FzB8RTAoQwYKtWKOwCOfz+vkXutylHnxu3KVAlOJdRst1yig73uqY8H6wOBICfnL7ii9vbN9DjuBetbDiyetdJYL92TYm4OCsone3nsDvEomvQz3arXsMfMgB9sd7Zs5rjw++N34yCQ8V8MZxkLDNvM1xBOPJJN+YMFjwCRyyFSy8bBN276oI70E1lTTijacgUXlquCDyi1YrYi1DSMRzy89zagKVajZWjXm1sIiky1PWg7YkNX0PKGJP0a1fbPdiA5mJEAmd3k1CmJI6Hpp6Gezuur/Nw/xfGPgzFETnQpjG85YOaqDJuPcwIho1Sux38V/Lg16RhS+uWGkV80LIoAX7UUIW+SSGf4o1xr7VI1rATGlZEGOUmp4AOcQUwWBZ1YUhMv5WMoUaOgrTtjJcVkLSXIdlXY89e57t1BgDo0+cHDiLqxkdL0LoxpzSHiob8uHKIU8EeGCXrEzhDtl7KQJRR/v9WY7tRD3O6556V19UNdkPfDwBn3ldHm4haTPMbkJM42hj5bbHFqduWZAC76XN0lbDDg0O2PSKE2yV7QvRDdj04UsGTcHGM3CpiCQScf2zjFPsE4x0GL7hdC7sK//zanoOIDBIxDePY8R3j1gPY7OkGZVUSxZmpH3ljIf4vxs/LPIPw9YBh1UgV1Jo12s+Fv8ug54v5yoHvSOnMSEv0IT/DyuXLcCtfXelf72S3O7GpS/QLgpIqCTvSeCjWLjlR5bSiYFGLtm5ttRx4YO7tmhc2U24UJX+ehSr1kAAX/8VC9Hs5F67nYU5/+YwJmGbJ32mRHKXNg2AdqA26fYVhh0yjfpzxe7vQV5tTd75j8hWJbAR7CQcuOAakqsasSu/KbViDhq6eBtxkqZE3yq0WoI7H+y7sPKmPCbqBku+9tJNIBTj/uvlMwGIGMO9QtAjGFgVUY65fDLCgb/h0lJXya9tehRu6i2a2U0j73GOMtqa3vjGTTF6XcHgPbUyWOLZ4DrhWkjz7fhdmqzIu6vyrJ4Xs8xbTcspSQT5sr45n6vCWXq7tGAE=\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_e1c04e9a-274c-4d8e-b75d-5fcd8bf5ac71",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X matches the claim. Fellow passengers were offered the programme, and infections were measured in enrolled passengers who were not told to wear coverings. Allocation was randomised in pairs, testing was blinded with complete follow-up, and the pair-adjusted, cohort-clustered 95% interval (0.33\\u20130.75) is wholly below 1. Y tests something else: the enrolled passengers wore the coverings themselves while fellow passengers' use was unchanged, so it shows wearer protection, not protection from other passengers' coverings. Neither answer depends on whether the six-week programme should be adopted. Nothing seems clinically implausible or unfair. A small wording point: in Y, the '80% of passengers offered' audit now refers to the enrolled group, which is consistent but easy to misread.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 3260,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 3260,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 635,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3895,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

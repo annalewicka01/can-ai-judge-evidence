@@ -1,0 +1,104 @@
+{
+  "id": "resp_XTRCKDo2sFo7kaIkM8HTOvvQtjYPrNZWJ9yI6MRg-s_yKb5S06ZDfMbRB5MsC5R84BtCnMkmztksQWNGabFEfedTydx--P4F16K5WNXSjc686zKYoOnLNRgcEwcaSHuSBE1SzTk-WCL7eaiyUpD9TQGNxAVMKe8wCxbK9irzqkcGZKYwCuiLBxJJLJ8HaqkccUqPIRFlMhixZClV96GtE14npGCkrLztd0sZ6oiWcVBJwXOeEUcClvPbpwwxD4PtYpT2d6OuZO4e-yxly_tNbG9-MdrLbDfCjgbS6uGncNRTwutcquN1JFW9Fde-krDiCiFytD7GU6_agqsYJiV-rcuVeTUkZcEFdivafictMU7SNBm-1DnzhcudNs8245ib9VIOyYC0UpqA_Wu1B78iwzQ3bpuYo5y4kcrR2p5Tg4R5tPPmMqzXtWYdNTTBd2yaGkZirtYJ8ewDN2t6Xg3vEEU7eib8vl9hJT4yn7k-_AsrcbtN81nfTRLA0yb3_M4=",
+  "created_at": 1794755803,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc19jOWFiYjEyZC0wNWFmLTRmNTctODVmNS1iZjI4ZGQ0NzQ3Y2Q=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQSuBMKEggTEAEYAjgBQgh0aGlua2luZxIMdJ6yR/8BHIBeL/8WGgxbK9x8hE9jXpAKDl4iMAj05i2ja4hdtKEzDWy8YSYQPP3p7cFip5BUzmayLyKaW/Y/DLtSCo4uoeXh+HKe+SrTEhW7n/CtZfE8kzgVyY4L8LXV8kiWowlr4VM3MAb9fBB4U91IdAlHTjx83+uRqm3ePI9cmraIiplBDjmcNZihCirBb1eW6cclZOi0Ny/FyXTjFgCP/PnipE4a38W4JMH+rUDWqw/tXk2NYhZncJt/nJdgjxFfW3ivP7o6evuKOb0fVcumw5M3KZdbttJcECsaoaF4SeBoXFywWOFn54RVvQ0CK5B5Wg3LFJc1BkOBRvsWvNNeVwnqJwTHoGhExtajS2xzKBNVbOIftQCAI4eVtHYfXJYWp6ZrQMvyU2WRU+LR/Hjo+tOS4DStMHxSYSSmN1ek2stPtnryuBlXDIWiQufDcx8zT3RiXty+ApuCH0UMatNBYDgqlVhU20zs7CFc+8X2wzyUaq43d4u5l07nL5AmqmNlDjZawWbmMJDOkzNc7LPOBfey1ZaMXLaNL3qAi/5tamhDDKM1R17Plca51F01seOiFxuNpe/hl6wAsdTEOq7xiQwmoR0mCSvkHFz12kZXy2xdNhGVNs6d8mHRGL85t/ynkFN9Af5FcTeQDFemIF3xgzH96xgDMS4/iBGdqObf4YW83jntnk+6FkpUQzwjqxRHrXVAGXkqv8BBmWlRDSiUhCBcAgJ+nNUX3ufrXJYvsPEN2yOc9Od+nrEdFvyAPdEXeC6HfKIg18nJEUWwyuR8taLliKiJHLld+vJTrjXdD5bCeJfxdGp1UBbsZmcLVJOlgaTE4vq5kGL1wUuNIeKTemnbuDp3DL1Xli959Q/weJSWsSx1N02N42G4l05lESRwotM84IYccbBhICp8NzOB0BIyXOpKErRJ7RGaSbTspLsavp1jRFmbJlDoLF4VLkNecizTPpS+0sQQ3zhf5b2uvinqmfJy2TNZfadg1t2+9zkI7DgGJAV0CJjWRZvlvxnOqAWR7wkbUJizuY2dJdzGLcPSTONmOhSmaeVlv168pIycB23WgyPmNraBARmag2KpKDER6n0fExdh4hS8jeG8dmfPN6+Qmsw/iI74Svp5fmZXahIJ6eAsNRmIT5NE+hB6Xa2pberp+6X08zeCDCyvTMqQnkPVjkfQRq+Qz7dfknvRK+3wevW8fAyVi5Viwwu2qR0sVAfIYiZddmdsITBWsx0Kbgl7ph1Gx8UOc+JC7HPOvbwVXll6GT+t62+F3K1YfcgE1AO7jjSRBPGyLW+RfDwXSficLCNrORFGl7Ab2MA0G98hDOTS3L0Li7k32CQGMqn8+RErfANhuTZ4cpULY3qi/WswGajSIREnvaWUprxrEXwMCrA0YsZtyR7mAUDWPWGEO1SpwqZywxXb7IXtxhHwrQOTJzI7e8g/YR8Hfcr5Q0xsFzJqRT16JeDqlSlgFPJwpHDaXa3JSfASaDn42aPxY7hsyqW4aYZAsOhni7SNpTu60l25KHbfI8wH1HPijXuuE5ctMi5eZrGWOUDcpVEQoUxBvyiGxbLlUo1FfyANTGeEbgMMB3tG1TxH2H22lXlzFT5rkm0J9g3Okxy2+d/O31qpFfwUsmzI+SwX8lBIndGMnTpxUGWHms1CQFqtQZefnZSzweOZZBi5bpX2gbnAuslBIrN2mYtH7d79V5LMSzsMLTjN2REuwnDoTfbiwzTmbPBoF4dHGO/ls+A0YjLmE4JZNJAFFxjLm1bkyT5cYi7tNzgexOLHlcDT38JzH6T+fpGyrNlwKejeSyqwmIKndJbfMe9sqxe5by+wmxTHzbwaQP0omfti7q2n1Hsp49todyPRsPansgqKVtA54sc4LTTQPDR0B5BqxxmQDWtikUlvM3VXjF+9bioYlkPviAF1yEtlJzUWugmC77teXfhNd1nDME7Gr9Au2ilctKDFG2H6/yAgoMsYrhHyX1VLF8/AM2fqwgbRB41StXGTSiDa2VJSvHUqq4QjFRzchOzGJ3Eda+SEM2IB1+YiL9I/tRZst6dw6TvMX153Dciyl7+iN38f0YZxOggvnEHKqWY/0/mxyx8UerH+Ah3nVvuXpdl/jSUGeL01kO4TmPP8iCAdDiH80LdY9vYmAl0llzgPp8hlGsZPecEJFN7B5e9xIrHSbDw5610DrseAWrBi9on3jiHyXLF8BUbeTaSlFR+YJqIG4ZmDKY10ebakGkOcYQCY3c6DVTSn3gpSlMrOys25Q8TKL5sTCrlMri5+88UPwj1Lp54rUHzuy2ZR/V60FU3+geHr+q18oUXm705rDIhSqYNNwVSJ/cU897zcSoYjDsGLKOk8SkT1zcgqLsz+OcWeTSzzrFV/d0DjoOoao4FcMhdveNL0jvuSkq/1d0AtZ005YCVuQUWTg0CtoFGGv9UZ7ikBk8qWHnaHyWsMb/0QYybO739OC1St+HraRmM3wBsdzLIfZa3C9GBrpisjKcYmHHiwUVIRvoGJApWy7Vu/gY9xDRCgK72JFerj5PbiQfZtYWJdIJxuk8SklDwCwE/McoaIAkm1bZeDfpljHjt9bf10g/5678RcbjufNWz8oV1SYBB610hgXTD2u4rZwcKNZj47buj8GI9KmU9XjjToSshEQh1T4AD2Z/BNQWjtI7TAvcnZFe0g23bNn/2Vs3VTD0Wjrm3Y3mUrvkyqzNsLFmkPtsNlQt/x+nqcoeDcq70+BYQwWLY5O0ZaQUNPySL9zyiucQYc3a0p8dHKV72oRJ3NjShwCv+bnHu6Rka0WJqAl3dk3ByqwY38cqRLTmXt4RQoppENa0OUWceC2trX8ZcPEW/LIMfH+GysqVa+xanuYOa95vEdfyck8j2nsk8EFoDP0SdXB0ibZrB+EZmQ65In+lkghTD6TOz19ejNmzEthCEwP2e/i9H34IEzivjitUWf+3/OsabSY5XU2PuXtCiEeXcUCQWACrbbcBTbTDB3Rt2Uai4Kcerqq+khBBGBvnjGD7A0pnKUxcxTGUMjYZsujD1cM9zP1yiHyi9Wrq+CODLStEeVkkrzDaUL2P5zSuoJtGuh3sue0c/10WHbVuOQAvYNCRyiOy/1/S97bvfwuYDTKAgJgHyk95m/6KVOGFII9WMYnZ03XHXUjCmFy5G6oJOXEZ7m+TSmKRnA2UwDL1IC95tWZCziN4DGnplk6SCjHosIMaH7tAPR5KlyIEh9IMI6qn6CeANBMenC0Ilc1ah6JZIefD/RojVfmZjszayhm8wxViaFkzwlGAE=\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_9a8a9e95-8bc6-47fb-8fab-f87fc217fa22",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"yes\", \"version_y\": \"no\", \"comment\": \"X: linkage covers all NHS hospitals and deaths in any setting, and the non-inferiority margin was set in advance, with CIs inside it. Caveat: if the 1,184 are only tool-selected patients and the comparator is all non-pilot discharges, adjusting for age, sex and frailty may not remove selection bias. Y: only Trust records are used, so readmissions to the 2 nearby hospitals and deaths at home are missed. No CIs or margin. With data from March to 31 Aug 2026, late discharges lack full 30-day follow-up. Fair contrast.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2756,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2756,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 1058,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3814,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

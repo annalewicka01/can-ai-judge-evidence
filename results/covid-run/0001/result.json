@@ -1,0 +1,29 @@
+{
+  "model": "openai_gpt6_astra",
+  "packet_id": "C17",
+  "request_sha256": "6d05270bbbaf8c16d5aa792b1405c3d7a5a5ca0d3bd0680661e4d650c6a62073",
+  "response_id": "resp_NYJeaZ4MsxTTDV62KT3p9upXtG6nISGZ0C3wmXgpWVRKlW5MuYvpqPgzv4BqHc8G9dJzejgPDkpjNw_A8KX3CWfh-KJ36Lkpp2xmyxnAmMtZQ3oh9HgUJD39J8xyWvkiXPPJ5PxU8kdgfWElusAuMzoCUBW1L3UocoRA37PjUf4GEQ7U2B36UDk5MUfGpQ6vUksSOAIDgqSDlC1P2-lK96PQtIhXjgB7-DIp24PXHFTt-M_x84H6lrSh3FrrO68DRaAe3rmVyTovNsr2Tv_5Nw0nnHoxxbXQ7YnMklwdoRKHTfduFWWzeUCHPBl_XQWJgVa9VDHkIpT2QcrBgDLshJ0NX20YH7vtWNcIgtwwq59KyMmVM1bkCXVCD_wf2wznNIAH6zVBq5O_NRTaRuRDoHRuZueDrW8ZdWZ6KI4E-TXbsc4QyeNwSOtN2_A1rqDimZ9nONr-vqBjMZAV4COdPy9vj9vlwOA=",
+  "response_model": "openai_gpt6_astra",
+  "status": "completed",
+  "text": "**1. Claim assessment \u2014 Supported.** The independent household surveillance supports lower incidence in 4\u201310 May, rather than a decline attributable solely to altered diagnostic access. This is conditional evidence from an infection proxy, not definitive enumeration of infections.\n\n**2. Policy recommendation.** Authorize the national 14-day trial from 18 May: one person from another household outdoors, two metres apart, with review after seven days. Retain the other prohibitions. Given the downward signal and limited permitted contact, reducing isolation outweighs waiting another week, provided safeguards are deliverable. This does not establish that the change causes no additional infections.\n\n**3. Decisive reasons.** Routine positives and testing both fell 40%; positivity stayed at 0.50%, with changed eligibility undermining comparability. Independently sampled households instead showed 100/20,000 versus 60/20,000 new positives: ratio 0.60, 95% interval 0.42\u20130.86. Procedures and measured participation composition were stable. No supplied evidence indicates ongoing community growth. District-only permission offers no demonstrated trend advantage and complicates boundary enforcement.\n\n**4. Necessary conditions.** Before launch, confirm accessible communications distinguishing outdoor permission from indoor restrictions and operational reversal arrangements. Use the \u00a3200,000 and four teams for scheduled surveillance and review; do not require unfunded frequent swabbing. Account for the three-day results delay and review admissions daily despite their lag. A sustained rise across two rounds or capacity alert requires urgent reconsideration; reversal needs public notice within 48 hours.\n\n**5. Decision-changing evidence.** Differential detection or participation could undermine the claim. Renewed growth, capacity pressure, or failed safeguards would favor postponement or reversal.",
+  "usage": {
+    "cost": null,
+    "input_tokens": 1090,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cache_write_tokens": 1087,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": null,
+      "video_tokens": null
+    },
+    "output_tokens": 498,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 139,
+      "text_tokens": null
+    },
+    "total_tokens": 1588
+  }
+}
