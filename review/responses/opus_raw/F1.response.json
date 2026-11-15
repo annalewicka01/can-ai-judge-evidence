@@ -1,0 +1,104 @@
+{
+  "id": "resp_FLlf2lS-mAFiiHUwdpoJWcCKswu4HGjDuOmrccumaIdx4eMeMTn57VscLFV4Q8KWgQzdlF1CgmwyUTpvqDyYSzy-KEQ8mW2AorLIq46Vxlgbdgyh5GBHE-K-W9ExSEsyLhVw4uTwdu_8BC2u9OLUgkWhmzcayeC3j4R8Hu87lGyhxVbaW7w_UDEcHqLPBmT9qStmgcuw_zpKJ7ynC7c0psogIZY_jNE_VrJf9FENZCclQGW11QvJYYojjZBqyzQqcrOL3ChshZoCvYmFlSgOq7wXi0j_8nB-dLm0In5zKot3r8K37y1znlDo3r0WHmb_N1T1kIRJPitDTucufftEdgVdaKjeWxO-8SU2tDjjwCWIul28rliGiRFbpZSmysjv5-rrEbqyhf-GpwWYFfQUC2uxHJcGSuKSpm249rOswHe_t1MpMojMr3q0wKyDNUNeyiawMcmtjVP_a77_TRCDJk0j8rUQmCwPfq8ww-3vw6TQ3oh2PDtCrlbDszZR2I0=",
+  "created_at": 1794755774,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc185NGMzYjQ0NS1kYWYwLTRlMGItODIzZS0zODMyZThmYTVlMTk=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"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\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_c1b1af72-9b2f-44a2-9544-c7460cd877a1",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"no\", \"version_y\": \"yes\", \"comment\": \"X's review only searched cancers diagnosed by Trust services within the pilot window itself, so returned patients (who wouldn't go back to the Trust) and late-pilot patients had almost no chance of a missed cancer being found; 99/99 sensitivity is circular. Y has 12-month registry and GP linkage, 0 cancers in 1,398 linked returned patients, upper bound 0.21% vs a 0.5% threshold set before the pilot, plus an independent 10% image re-read. Minor wrinkles: in Y the 2024/25 baseline overlaps the Jan 2025 pilot start; in both, the equality assessment gives no results by skin type.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 3405,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 3405,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 1557,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 4962,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

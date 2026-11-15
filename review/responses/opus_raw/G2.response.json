@@ -1,0 +1,104 @@
+{
+  "id": "resp_4d-MJXs4CMrrEVUXJqsmyzBwmQ5aMSIStI9RaNn5MlDle83NYW0x4ZRjmAiaSLRsJfnKMFgzrUkLJhlCwE0dRqGMN9hYxE1lP62vuetrfZcMWK7pKgpfnfJfU0hrjH0V-LRwhDBoOG-jx3yHjzB3KO91l9UI5q2tXaDhAVHzeid8c9EiwwlEjFwr3utTbf4zjFmAYGGeovoPUjXgrmoMfPUpjzbnl-sQkqldMzrSRN_Tn8ygxmyekKF7xRt5EtLCvceqvBpMjvcTYArxXIpW2llimd6NUs1N1hy4hgdpvw62ybtQ7V3KBJChuL2yza76m0hHTCsaQe4TTrFFrWWSmeLu_2KfBrlotsc_jr0_gfws8xEjM2qbxxm9cRGyvjPuXreFVC50Z_JciHtU79832fg3CyYieMwKQem9kwoJFeeBjlfOv4NzTETxZzYCeZ5WoELAi_r66XcYsdeZHgQhX_KuFaEVgqpw9KOKkjGw2RkYEcco4pfroJQ98ycEMPc=",
+  "created_at": 1794755831,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc18yMmQ2MWY4Ni0yMWRhLTQ3YzEtYmMxMy1hZTVjZWE3ZmRmZTk=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"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\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_e01c80b7-f5f4-46bb-ad6e-b9c0d24f0490",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"no\", \"version_y\": \"yes\", \"comment\": \"X: the extension covers groups the pilot excluded (stroke wards, care-of-older-people wards with median CFS 7, and 'all inpatients'), so the pilot safety data can't support it. Y: same case mix and rules; national linkage picks up readmissions and deaths at the two nearby hospitals, and both CIs fall within the 1-point margin. Caveat: this is a non-randomised comparison of consultant-selected pilot patients against all non-pilot discharges, adjusted only for age, sex and frailty, so selection bias could favour the pilot. A strict reader might say unsure for Y.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2493,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2493,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 783,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 3276,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

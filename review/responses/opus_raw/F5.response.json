@@ -1,0 +1,104 @@
+{
+  "id": "resp_9g1lfekSKR63sg4VTvDd7QSnFJNxwUGN31bt-yCWNkB-eG4msp6WBADGpoILFfh1y79VZIobSNTL8yFrd7gJWEGBMUg6MRonpe4zTXOkVqOqRMPY1snSiMRtFo85Xm37E-L-PjYbZHUHn3HjBXc2nmkPrgOLiJiSG1iNHS1ohPzRNN0Kb3VOm829KF6ze2nBun5qKTua3p5q9oVBjL_0Wpk_Ovu3naquhvUfyyFG_RqWp0EYipbw4j36XxX_j26hHiAbpIzd4rMNed3nmw_n43VSl2hi1CQsp_TRxo3bIniRTwkCEYIOeqKVdhDOkY8t_LPgfQf0s7vzg9R__QNlO-x_2eNpwdwu6UouQkotWEDyi5KfG064FvTukZOQm7cv88CHA3nER5sIpr3nVgQAegRFP4_DH4RdqlRi_ObB5A8J56b6pdFBODFJHQsxdRY6WfAY_Ir64ztXUYX_S87qv6a_ljaoW5wkJKP9fGOdD1r-Bubiwz0h0gLa4Tehbhk=",
+  "created_at": 1794755809,
+  "error": null,
+  "incomplete_details": null,
+  "instructions": null,
+  "metadata": {},
+  "model": "anthropic_claude_opus_5_5",
+  "object": "response",
+  "output": [
+    {
+      "type": "reasoning",
+      "id": "encitem_bGl0ZWxsbTptb2RlbF9pZDphbnRocm9waWNfY2xhdWRlX29wdXNfNV81LWV1LWNlbnRyYWwtMS1jcm9zcy1yZWdpb247aXRlbV9pZDpyc185OGNhODIzZC02NGFlLTQwMGItYWQwNi0yYzYwMjdkOWI5N2M=",
+      "status": "completed",
+      "role": "assistant",
+      "content": [],
+      "phase": null,
+      "encrypted_content": "litellm_enc:bW9kZWxfaWQ6YW50aHJvcGljX2NsYXVkZV9vcHVzXzVfNS1ldS1jZW50cmFsLTEtY3Jvc3MtcmVnaW9u;[{\"type\":\"thinking\",\"thinking\":\"\",\"signature\":\"CAQSxAkKEggTEAEYAjgBQgh0aGlua2luZxIMDlbXJWKGcYzLwO6RGgx2w/fEvkD6OLtw/A8iME4vL384JsRu8+ySGlcB601CX+DyXjXBQgZ+gt7m8jYVmOfypS3/n5ET5RQ17vTJzSrfCDulrZJSpMhTXNUYZFqvd0bqS1cSG63wRyXq1WIoJPWOd6+aD0Ua+NDGOpg0Rx/JPiSxLNNpKD895LOXsrvwMixzhk4pK1BDM/x7pUxHY8EsbB7vI9K36UFbCg12HwgAPuP8lT3os1YZETD2jR1/0lRsbWTNkTpWj5Vi0hHozTnT6lexPhG5wRvRlAkckshsBpjFK4OdRpJOcixOVzT7I/zCST/nyUHAsEyCNj2dmqgxU9CsU1fRQ9KOYCXMMSivqA3QPsshJSatd7O4Rx/JCTwiSZQSgKk8xYELxf2pWk/NeXz8ZOOaEtM/NkVazc4gGDP/SCWKBwR5DrcDq67TAuE+7iykBGUcKk5Vx7isAnXzO44xbX4BcYfMJ4xrbmVXD6n6DW39CP8iT4AmZ6UIXdkHvZrCAHRTxGALF2Wtrgjqyt/pUQoZiz9fnrVeGZX0zOp8QxCbl/5xD1QvtV5Yc2rLUpb0y2oU2apaKUJLZSzZLnrvmzeVPeKfIY/qtgPiqq8Rg8jGc/cYSnAEAkUnahW+hBJ7jmCx8pydI7sFZ216BTn2FK2XzMmwkVrpD67j2JOBwhZYtW5mJbA8cH+bmnKe59VsFyDzAvIfeNkOELj0v0j1E342ks043zoiVYAzCV66yf6iksy4purQea83C13Bt+r4FOkaT/xduaNtSNpC7RopU2bLazoN+W78KGjNQPrWH9v+9TkXW5VX1J1oVGfHupOkIUkk2DXy+ZNKoy/JoovGuYcYsl57xEw5k8bTUcP9Kp2NezAi438riFNsmGMCdg8ekoI7qG3Cq7ACcudIhKVUxHfIcuH/xij7n/AldrHumYrwb0pdbEV/rFjob2J+o8XgIhfW9Q8WsnvO1q6u6Co8I+nXOfwfzAmiLT7FeMmqWNmavoQJmWUFLC93ijwi4BmdjUEjzGQCfm/FOD2ItPq4XHUmMQmQrxEHUuMaSon3WIZQEWqMlsxKKf8X+pZ0NZq3fOLFF+dSurkh6jiNo7f6g6WZkAFcMx0FWpRB2ulmezjIz1fzQ89rJIMWTXL5QAb3m7GK8TwKuJr/cLpjlPPeGq7BSaUE7RbmgG6WAIWjzJSX2e3NWaQH64+kRFqr7h5tK/aOwZ+tMuxHT7XMKBdz6dLzKpPVx1zNlJqRZ8w6q2pN0kFPCBWsIu/ux+DR3BAoExQvLCqYFBqAANj4IH+uroV6vaHcINPTOQafVq2MQawGt1nqwCU9yNDiuDc99pku6eSBigkf6v4k2bL3naC13f7lLj6mw/gCkGdInkpgplum2g+fOBGW3n/E+WQmCZjHN43/+OCSqbySurNgUqogKV2ZEriD1CqFlI3mbOmczU36mM0b8FRpgapSYw/2+58BKETcdDSlcGAmdNxgvlfI6NLTpDDsXaf7O6Tu1dKSZnWXMcr7z0xVF6uT/soXuTm+x0zRjSKi9OS/1ON/Os26DFNRrBRyPOojwJzA+VOoGK4vrjBNjED3n8cBJRgB\"}]"
+    },
+    {
+      "type": "message",
+      "id": "msg_ee2ba7ea-45bd-4d14-bb32-19a4d70d36b4",
+      "status": "completed",
+      "role": "assistant",
+      "content": [
+        {
+          "type": "output_text",
+          "text": "{\"version_x\": \"no\", \"version_y\": \"yes\", \"comment\": \"X: The interval-cancer data come only from the Trust's own records, with a median 6 months of follow-up against a 36-month screening interval. That is too short, and it misses cancers diagnosed elsewhere. The 0.3/1,000 rate is implausibly low, so 'no increase' isn't shown. Y: Registry linkage over the full 36 months, with a CI inside a pre-set margin, supports the claim. Allocation by unit/month isn't randomised, but that's a fair limitation for both. The 2023 dates are consistent with the follow-up timing.\"}",
+          "annotations": []
+        }
+      ],
+      "phase": null
+    }
+  ],
+  "parallel_tool_calls": false,
+  "temperature": null,
+  "tool_choice": "auto",
+  "tools": [],
+  "top_p": null,
+  "max_output_tokens": 4000,
+  "previous_response_id": null,
+  "reasoning": null,
+  "status": "completed",
+  "text": {
+    "format": {
+      "name": "review",
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      },
+      "type": "json_schema",
+      "strict": true
+    }
+  },
+  "truncation": null,
+  "usage": {
+    "input_tokens": 2320,
+    "input_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0,
+      "cached_tokens_details": null,
+      "image_tokens": null,
+      "text_tokens": 2320,
+      "video_tokens": null,
+      "cache_write_tokens": 0
+    },
+    "output_tokens": 563,
+    "output_tokens_details": {
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "text_tokens": null
+    },
+    "total_tokens": 2883,
+    "cost": null
+  },
+  "user": null,
+  "store": false
+}

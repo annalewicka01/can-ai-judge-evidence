@@ -1,0 +1,38 @@
+{
+  "PROTOCOL.md": {
+    "current_sha256": "29e2b046db0f779353644963f52dfe8ab62b02535babe02a16640e8dce8293b3",
+    "frozen_sha256": "89dd14f715760b59b85cae72a14064e0e62ff58805a7b5aa5a2aed710bd7f57a",
+    "path": "experiments/covid_policy/PROTOCOL.md",
+    "reason": "Status line updated after the run."
+  },
+  "covid.py": {
+    "current_sha256": "af139996609ac1b4c2f3be543e7459c9b753230f98fcd9ca10e6b49c07e01a8e",
+    "frozen_sha256": "033fd2737277a472d7e0b71d4b333286a6d51c1a1d70bfdcb6dbe4651f6cedd6",
+    "path": "experiments/covid_policy/covid.py",
+    "reason": "Same file as experiments/covid_policy/covid.py."
+  },
+  "experiments/covid_policy/covid.py": {
+    "current_sha256": "af139996609ac1b4c2f3be543e7459c9b753230f98fcd9ca10e6b49c07e01a8e",
+    "frozen_sha256": "033fd2737277a472d7e0b71d4b333286a6d51c1a1d70bfdcb6dbe4651f6cedd6",
+    "path": "experiments/covid_policy/covid.py",
+    "reason": "Package renamed; hard-coded model gateway URL removed (endpoint now from CAJE_ENDPOINT); gateway-token fallback removed."
+  },
+  "src/would_we_notice/harness.py": {
+    "current_sha256": "d4880305ff1c4afbd10b43453cc2b370821ff3f5774909986d37c5ef3fb1ebd1",
+    "frozen_sha256": "7bc957c77aa81bd3b91447138ac91c1fcfc38951c83b6825fd6cc2ffcad07c2f",
+    "path": "src/can_ai_judge_evidence/harness.py",
+    "reason": "Package renamed (would_we_notice to can_ai_judge_evidence)."
+  },
+  "src/would_we_notice/transport.py": {
+    "current_sha256": "4df5ddb95d1d028a0a1c1ba0d4194c9768ea8a7257caf9fa8485b536d5cf9c2a",
+    "frozen_sha256": "7f42adc1e9e33fa86eee3f6894698bebf47c61ade5f11e9d26515c2887301869",
+    "path": "src/can_ai_judge_evidence/transport.py",
+    "reason": "API key and endpoint environment variables renamed (CAJE_API_KEY, CAJE_ENDPOINT)."
+  },
+  "test_covid.py": {
+    "current_sha256": "d0ca3be086effa087759938e0aa5339020971256633410e9cbe67b7a7f14535a",
+    "frozen_sha256": "cd200f465c8012b89fc8454258510fa64ee41ac6a0246ff378a69d39af3975c4",
+    "path": "experiments/covid_policy/test_covid.py",
+    "reason": "Package renamed in imports."
+  }
+}

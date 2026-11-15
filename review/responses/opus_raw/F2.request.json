@@ -1,0 +1,48 @@
+{
+  "model": "anthropic_claude_opus_5_5",
+  "input": [
+    {
+      "role": "user",
+      "content": "# F2\n\nAn AI tool reports some chest X-rays without a radiologist. The committee is asked to extend this pathway and accept its cancer-safety claim.\n\n## Shared paper\n\nRIVERSIDE TEACHING HOSPITALS NHS FOUNDATION TRUST \u2014 QUALITY COMMITTEE\nMeeting date: 15 October 2026 | Agenda item 5.2 | Paper QC/26/118\n\nTitle: Autonomous reporting of normal chest X-rays from GP referrals \u2014 extension to all three sites\nPresented by: Clinical Director for Imaging; Chief Clinical Information Officer\nPurpose: For approval\nPreviously considered by: Diagnostics Board (supported); Digital Programme Board (supported)\nRecommendation: The Committee is asked to APPROVE extension of autonomous normal reporting from the Northgate site to the Southgate and Westfield sites from 1 December 2026.\nLinks to Board Assurance Framework: BAF 2 (diagnostic capacity), BAF 7 (workforce)\n\n1. Executive summary\nSince 2 March 2026, an AI device has issued final reports, without radiologist review, for GP-referred chest X-rays it classifies as normal with high confidence. In the live period it autonomously reported 6,830 examinations (41% of GP chest X-rays at Northgate). Reporting turnaround for GP chest X-rays fell from 9.5 days to 2.1 days and the reporting backlog fell by 6,200 examinations. No clinically significant missed findings have been identified in autonomously reported examinations (section 4). Extension would save an estimated 1.6 consultant radiologist sessions a week per site.\n\n2. Background\nThe Trust has 11 radiologist vacancies and outsources 18% of plain-film reporting at \u00a39 per examination. GP chest X-rays are a high-volume, mostly normal workload. The device is UKCA class IIb for this intended use.\n\n[Read passage 1 from your chosen version here.]\n\n4. Clinical safety\n| Measure | Live period |\n|---|---|\n| Autonomously reported normal examinations | 6,830 |\n| Clinically significant missed findings identified | 0 |\n| Patient safety incidents relating to autonomous reports | 0 |\n| Complaints | 1 (report wording) |\nA DCB0129/DCB0160 clinical safety case is in place and was signed by the Trust Clinical Safety Officer on 30 September 2026. The hazard of an abnormal examination being reported as normal is rated low and acceptable with reference to section 3.\n\n5. Workforce and finance\nRadiologist time released will be used to reduce the CT and MRI backlog. Licence cost \u00a31.40 per examination. Net saving \u00a3148,000 a year across the three sites, mainly reduced outsourcing.\n\n6. Patient and public involvement\nThe patient panel supported the proposal provided patients are told an AI produced their report. Report wording has been revised accordingly.\n\n7. Equality\nNo differential impact identified. The device was validated by the manufacturer on adult populations across four countries.\n\n8. Risks of not proceeding\nReporting delays at Southgate and Westfield (currently 11 and 14 days) will continue; outsourcing costs will rise.\n\n## Version X\n\n### Passage 1\n\n3. Evaluation\n3.1 Shadow phase (November 2025 to February 2026). The device ran in the background and its output was hidden from radiologists. 4,000 consecutive examinations were independently double-reported by two consultant radiologists blinded to the device output, with a third resolving disagreements; this consensus was the reference label. The device's \"high-confidence normal\" output agreed with the reference label in 99.6% of examinations it classified as normal.\n3.2 Live phase. Autonomous reports are issued directly to the requesting GP. In addition to the discrepancy process, a random 10% sample of autonomously reported examinations (683) was double-read by two consultant radiologists blinded to the device output. No clinically significant finding was identified (one-sided 95% upper bound 0.44%, below the 1% threshold set by the Diagnostics Board before go-live). The sampling continues at 5% after extension.\n\n## Version Y\n\n### Passage 1\n\n3. Evaluation\n3.1 Shadow phase (November 2025 to February 2026). The device ran in the background while radiologists reported as usual; the device's triage flag was displayed on the radiologists' worklist. Reference labels (normal/abnormal) were extracted from the issued radiologist reports by the Trust's natural-language processing tool. The device's \"high-confidence normal\" output agreed with the reference label in 99.6% of examinations it classified as normal.\n3.2 Live phase. Autonomous reports are issued directly to the requesting GP. Safety is monitored through the discrepancy process: any autonomously reported examination that is followed by radiologist-reported imaging of the chest within 90 days, or about which a clinician raises a concern, is reviewed by a consultant radiologist. 212 examinations were reviewed under this process; none showed a clinically significant finding on the original film.\n\n\n# Quick paper review\n\nThese are invented committee papers. We want to check whether our expected answers are fair, not ask you to approve a real service.\n\nRead the shared paper once. At each passage marker, use the passage from Version X, then consider the same paper with Version Y instead. Nothing else changes. Allow about five minutes per pair. Do not open answer_key.json or RESULTS.md before answering.\n\nFor each pair, answer:\n\n(a) Version X: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(b) Version Y: does the evidence back the headline claim for the decision being made? **yes / no / unsure**\n\n(c) Optional one line: anything clinically implausible or unfair?\n\nFor the COVID papers, the headline means the exact claim in the final section. Supporting that claim does not require agreeing with the policy.\n\nStart with **F3b, G4, F2, covid-surveillance**. Next try **F4, G3**, where reasonable readers may differ. Then F1, F5, G1, G2 and covid-masking. Just the first four to six pairs is still useful.\n\nUse responses/TEMPLATE.csv: save a copy as mother.csv or owner.csv. Leave unread pairs blank. Written answers on printed papers are equally welcome; the owner can copy them into the CSV afterwards.\n"
+    }
+  ],
+  "text": {
+    "format": {
+      "type": "json_schema",
+      "name": "review",
+      "strict": true,
+      "schema": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "version_x",
+          "version_y",
+          "comment"
+        ],
+        "properties": {
+          "version_x": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "version_y": {
+            "type": "string",
+            "enum": [
+              "yes",
+              "no",
+              "unsure"
+            ]
+          },
+          "comment": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "max_output_tokens": 4000,
+  "store": false
+}
