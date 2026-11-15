@@ -1,0 +1,109 @@
+{
+  "note": "Sentence-level edits. Each [old, new] must match exactly once; new '' deletes. Claims lose 'establishes/demonstrates' framing; record sentences stating the inferential conclusion are removed. Facts, numbers and keys unchanged.",
+  "cases": {
+    "Q01": {
+      "claim": "Returning patients to primary care under this pathway does not increase delayed diagnosis of serious lesions.",
+      "dossier": [["'The evaluation establishes that returning patients", "'Returning patients"]],
+      "documents": {
+        "R3": [[" Absence of a complaint is not verified absence of a delayed diagnosis.", ""],
+               [" Outcomes in patients never referred back remain unknown.", ""]],
+        "R6": [[" The present claim concerns returned referrals, not all district residents.", ""]],
+        "R5": [[" Non-response cannot be read as a reassuring clinical outcome.", ""]],
+        "R2": [[" This assumption does not establish the clinical effect of those avoided appointments.", ""]],
+        "R4": [[" The clinical lead must agree outcome definitions and escalation actions with commissioners before making an assurance about delayed diagnosis.", ""]]
+      }
+    },
+    "Q02": {
+      "documents": {
+        "R5": [[" The report supports its stated bounded criterion.", ""]],
+        "R4": [[" Neither survey satisfaction nor reduced appointments alone supports clinical safety; the independent evaluation does that for its stated scope.", ""]]
+      }
+    },
+    "Q03": {
+      "claim": "The service improved completion of indicated specialist care within six months.",
+      "dossier": [["'The service has demonstrated improved completion", "'The service improved completion"]],
+      "documents": {
+        "R1": [[" A complete six-month outcome analysis cannot exist by the decision in ten days.", ""]],
+        "R4": [[" Increased screening is a real observed access metric; it is distinct from attending a specialist or receiving indicated treatment.", ""]],
+        "R6": [[" It cannot make six months elapse within ten days.", ""]],
+        "R3": [[" This supports image-result review; it does not establish whether patients later attended or completed care.", ""]],
+        "R2": [[" Interviews are not representative clinical outcome ascertainment and do not identify the attendance status of uncontacted patients.", ""]]
+      }
+    },
+    "Q04": {
+      "documents": {
+        "R6": [[" Even if all eight unresolved patients had completed assessment, the fraction would be 70%, below the pre-agreed 80% criterion.", ""],
+               [" The pathway therefore did not meet the stated criterion.", ""],
+               [" The audit does not show that AI caused the failure or that vision outcomes worsened.", ""]],
+        "R3": [[" These are reliable descriptive clinic proportions, not a randomized causal comparison.", ""]],
+        "R5": [[" This does not establish care completion.", ""]],
+        "R1": [[" The board can recognize the screening gain while acknowledging that the completion criterion was not met.", ""]],
+        "R4": [[" These findings suggest changes to test; they do not alone establish which specific change would improve attendance.", ""]]
+      }
+    },
+    "Q05": {
+      "claim": "The pathway prevented incident disease in lower-priority patients, as reflected in their reduced rate of newly coded diagnoses.",
+      "dossier": [["'The reduced rate of newly coded diagnoses in lower-priority patients demonstrates that the pathway prevented incident disease.'", "'The pathway prevented incident disease in lower-priority patients, as reflected in their reduced rate of newly coded diagnoses.'"]],
+      "documents": {
+        "R4": [[" Fewer codes could reflect fewer opportunities to detect disease and cannot establish prevention.", ""]],
+        "R2": [[" The audited agreement is therefore conditional on being tested; the frequency of undetected disease in the untested route remains unknown.", ""]],
+        "R5": [[" This can assess current undetected disease but cannot retrospectively establish exact onset or prove the policy prevented disease.", ""],
+               [" Estimating prevention would require a suitable comparison and time-aligned baseline/follow-up.", ""]],
+        "R1": [[" This is measured utilization, not a health-need measure.", ""]],
+        "R6": [[" Sparse histories indicate incomplete observation, not absence of disease.", ""]],
+        "R3": [[" These interviews neither verify undetected disease nor establish causal prevention benefits.", ""]]
+      }
+    },
+    "Q06": {
+      "claim": "The prevalence of clinically actionable undetected disease among patients assigned lower priority is below our pre-agreed 2% tolerance.",
+      "dossier": [["'This audit establishes that the prevalence", "'The prevalence"]],
+      "documents": {
+        "R2": [["The prespecified one-sided exact 95% upper bound is 9.50%, well above the board's 2% tolerance.", "The prespecified one-sided exact 95% upper bound is 9.50%."],
+               [" The sample is representative but too small for the stated assurance.", ""],
+               [" Zero observed cases is not proof that the underlying prevalence exceeds 2%, either.", ""]],
+        "R1": [[" Even another 20 without an event would leave the one-sided exact 95% upper bound about 5.82%, still above 2%.", ""],
+               [" A later larger audit can be planned, but the present budget cannot meet the proposed assurance before this decision.", ""]],
+        "R5": [[" Satisfaction and throughput do not increase statistical precision of the audit.", ""]]
+      }
+    },
+    "M01": {
+      "claim": "Patients returned to primary care have no material excess of delayed serious diagnosis.",
+      "dossier": [["'The monitoring establishes that patients returned", "'Patients returned"]],
+      "documents": {
+        "R5": [[" These reports are leads for follow-up, not established pathway-caused events.", ""]],
+        "R6": [[" Their diagnostic outcomes are unknown.", ""],
+               [" The quality letter's phrase 'returned patients' therefore names a selected subset, not everyone returned by the service.", ""]],
+        "R3": [[" It neither confirms the liaison anecdotes nor rules them out.", ""]]
+      }
+    },
+    "M02": {
+      "documents": {
+        "R1": [[" Its high completion percentage cannot be mapped directly to clinical attendance without the locked cohort register and care reconciliation.", ""]],
+        "R5": [[" Other unresolved rows lack external records and must remain unknown, not be classified as nonattendance.", ""],
+               [" This return describes actual follow-through, not the causal effect of AI on attendance or vision.", ""]],
+        "R4": [[" This note does not establish that all outstanding care queries are outside the study cohort.", ""]]
+      }
+    },
+    "M03": {
+      "claim": "This pathway prevented incident metabolic disease, as reflected in the observed reduction in new diagnosis codes.",
+      "dossier": [["'The observed reduction in new diagnosis codes demonstrates that this pathway prevented incident metabolic disease.'", "'This pathway prevented incident metabolic disease, as reflected in the observed reduction in new diagnosis codes.'"]],
+      "documents": {
+        "R4": [[" This is not a direct measure of biological onset, baseline undetected disease or prevention.", ""]],
+        "R2": [[" Billing does not independently establish that an untested patient is free of disease.", ""]],
+        "R5": [[" Unrecorded disease that was never diagnosed anywhere would not be recovered merely by linking claims.", ""],
+               [" The reply supplies no patient outcome estimates and cannot establish retrospective onset.", ""]],
+        "R1": [[" The resulting data can show expenditure and recording patterns but do not ascertain disease across all eligible patients.", ""]],
+        "R3": [[" It cannot retrospectively create a common baseline or prove prevention.", ""],
+               [" A suitable time-aligned comparison and follow-up would be needed for that claim.", ""]],
+        "R6": [[" A report may acknowledge genuine utilization changes while withholding a clinical prevention claim.", ""]]
+      }
+    },
+    "M04": {
+      "documents": {
+        "R3": [[" The memo contains no results for the later evaluated release and was not updated to assess the changes.", ""]],
+        "R2": [[" The draft is not the current decision and does not authorize using current evidence for new populations or versions.", ""]],
+        "R4": [[" The team can monitor outcomes and access without repeating the completed trial before each quarter's continuation decision.", ""]]
+      }
+    }
+  }
+}

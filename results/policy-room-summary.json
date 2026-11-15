@@ -1,0 +1,25 @@
+{
+  "date_local": "2026-11-14",
+  "timezone": "Europe/Copenhagen",
+  "scope": "exploratory development only",
+  "versions": 2,
+  "development_workflows": 2,
+  "completed_conversations": 12,
+  "successful_stage_responses": 36,
+  "http_attempts_in_live_rounds_and_recovery": 39,
+  "ssl_errors": 3,
+  "returned_usage": {"input_tokens": 28424, "output_tokens": 12097, "total_tokens": 40521},
+  "core_tests_passed": 148,
+  "recovery_tests_passed": 4,
+  "subtests_passed": 428,
+  "evaluation_cases_authored": 6,
+  "evaluation_conversations_run": 0,
+  "human_coding_complete": false,
+  "by_arm": {
+    "ordinary": {"v1_correct": 2, "v1_n": 2, "v2_correct": 2, "v2_n": 2, "required_evidence_acquired": 4},
+    "generic_critique": {"v1_correct": 2, "v1_n": 2, "v2_correct": 2, "v2_n": 2, "required_evidence_acquired": 4},
+    "targeted": {"v1_correct": 2, "v1_n": 2, "v2_correct": 2, "v2_n": 2, "required_evidence_acquired": 4}
+  },
+  "transport_deviation": "One explicit append-only recovery of the failed v2 acquisition request and its unstarted final stage. No completed answer resampled; original failure retained.",
+  "conclusion": "No observed prompt advantage on these two workflows across two versions. Both pilots saturated; stop at the predeclared expansion gate. Not general prompt equivalence or clinical validation."
+}

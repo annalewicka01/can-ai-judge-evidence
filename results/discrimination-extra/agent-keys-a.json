@@ -1,0 +1,282 @@
+[
+  {
+    "key_id": "K001",
+    "bounded_claim": "In the pilot's eligible medical inpatients, adjusted 30-day readmission and mortality differences met the prospectively agreed one-percentage-point non-inferiority margin.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable", "substantial"],
+    "concerns": ["Additional nursing recruitment remains incomplete; rollout assurance assumes staffing is ready.", "Non-random comparison leaves possible residual confounding."],
+    "evidence_quotes": [
+      "The difference in readmission (−3.3 points; 95% CI −5.0 to −1.6) and in mortality (−0.1 points; 95% CI −0.8 to 0.6) both met the non-inferiority margin of 1 percentage point agreed by this committee before the pilot.",
+      "The eight additional wards are general medical wards (Wards 10–17) with a case mix similar to the pilot wards (median Clinical Frailty Scale 4). The pilot eligibility rules apply unchanged.",
+      "The hazard of premature discharge is rated medium and acceptable with mitigations (consultant review, monitoring, direct return route)."
+    ],
+    "rationale": "Near-complete national outcome capture, adjusted comparison, explicit uncertainty and an agreed margin support the bounded finding. Similar rollout case mix and unchanged eligibility connect that evidence to the proposal; clinical review and monitoring address residual risk. Assuming funded staffing is operational before expansion, proportionate positive assurance is defensible. This does not prove causation or eliminate risk."
+  },
+  {
+    "key_id": "K002",
+    "bounded_claim": "Among the pilot's eligible medical inpatients, the reported adjusted 30-day readmission and mortality differences met the agreed non-inferiority margin.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Rollout includes higher-frailty and stroke populations excluded from the pilot.", "No bridging safety evidence for the expanded eligibility.", "Seven additional wards are listed although eight are claimed.", "Additional nursing recruitment remains incomplete."],
+    "evidence_quotes": [
+      "Pilot eligibility: medical inpatients aged 18 or over with Clinical Frailty Scale 6 or below, excluding patients admitted with acute stroke.",
+      "The difference in readmission (−3.3 points; 95% CI −5.0 to −1.6) and in mortality (−0.1 points; 95% CI −0.8 to 0.6) both met the non-inferiority margin of 1 percentage point agreed by this committee before the pilot.",
+      "The eight additional wards are Wards 14 and 15 (general medicine), Wards 20, 21 and 22 (care of older people; median Clinical Frailty Scale 7) and Wards 30 and 31 (stroke). The tool will be enabled for all inpatients on these wards from January 2027."
+    ],
+    "rationale": "The pilot evidence is not invalidated by the proposed expansion: its narrow finding remains supported. However, the proposal expressly crosses the pilot's eligibility boundary without outcome evidence for the new groups. Consultant review is a mitigation, not documentation that the evaluated safety result transfers. The listed ward count also needs reconciliation."
+  },
+  {
+    "key_id": "K003",
+    "bounded_claim": "The analysed six-month monitoring cohort had all-cause mortality of 6.1%, similar to the comparator's 6.4%.",
+    "bounded_assessment": "contradicted",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited", "no_assurance"],
+    "concerns": ["Deaths during the measurement period are excluded from the analysed cohort despite a nonzero mortality result for that period.", "Withdrawal and prolonged-admission exclusions select on outcomes.", "Local records do not establish complete outcome capture."],
+    "evidence_quotes": [
+      "| All-cause mortality | 6.1% | 6.4% |",
+      "Analysis population: patients who completed the six-month monitoring period (948 of 1,162 enrolled). Patients who withdrew from monitoring, were admitted for more than 14 days or died during the monitoring period (214) are not included, because their monitoring data are incomplete.",
+      "The service reduces emergency demand and is safe."
+    ],
+    "rationale": "On the paper's stated same-period definition, a cohort excluding patients who died cannot yield the reported mortality rate. Either the denominator or the outcome description is wrong. Excluding prolonged admissions and withdrawals also prevents the favourable admission rate from characterising all enrollees. This is an internal evidence contradiction, not evidence that the service actually causes harm."
+  },
+  {
+    "key_id": "K004",
+    "bounded_claim": "No melanoma or SCC was identified within at least 12 months among 1,398 linked patients returned to primary care; the reported upper bound was below the agreed threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable", "substantial"],
+    "concerns": [],
+    "evidence_quotes": [
+      "Melanoma or SCC diagnosed anywhere in that period: 99 patients, all of whom had been routed to consultant review; none among returned patients (0 of 1,398 linked; one-sided 95% upper bound 0.21%, below the 0.5% threshold agreed by the Programme Board before the pilot).",
+      "An independent consultant reviewed the images of a random 10% sample of returned patients (141) and identified no lesion that required urgent referral.",
+      "All sites, including the pilot practices, remain on software version 3.2 with the threshold used in the pilot; the proportion returned to primary care is expected to remain about 35%."
+    ],
+    "rationale": "Follow-up includes the returned group rather than only subsequently referred patients, with near-complete linkage, independent image checking and quantified uncertainty. Similar expansion populations and explicitly unchanged configuration make the pilot relevant to rollout. Assuming training and safety-netting operate as described, positive assurance is proportionate. The evidence is bounded to these cancers, populations and follow-up duration, not zero future risk."
+  },
+  {
+    "key_id": "K005",
+    "bounded_claim": "Across the full 36-month follow-up, the AI arm's interval-cancer difference met the prospectively specified non-inferiority margin.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable", "substantial"],
+    "concerns": ["Allocation by screening unit and month allows residual between-group differences."],
+    "evidence_quotes": [
+      "Interval cancers were identified by linkage to the national cancer registry for all 82,000 women for the full 36 months after the screening episode (linkage 99.7%).",
+      "The difference was −0.1 per 1,000 (95% CI −0.6 to 0.4), within the non-inferiority margin of 0.75 per 1,000 set by the Screening Quality Assurance Group before the evaluation.",
+      "Arbitration of reader-AI disagreements by a third reader continues unchanged."
+    ],
+    "rationale": "The result covers the stated screening interval with near-complete national ascertainment and an explicit accepted uncertainty limit. Detection, recall and retained arbitration also address relevant workflow risks. Assuming the evaluated AI and workflow carry into adoption, broad positive assurance is defensible. Non-inferiority within a margin is not proof of exactly equal risk, and allocation was not individually random."
+  },
+  {
+    "key_id": "K006",
+    "bounded_claim": "Within the hosting Trust's available follow-up, a median six months after screening, the observed interval-cancer rate was 0.3 per 1,000 in each arm.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Follow-up is much shorter than the paper's 36-month screening interval.", "Ascertainment is confined to hosting-Trust breast records.", "Equal early point estimates do not quantify an acceptable excess-risk bound."],
+    "evidence_quotes": [
+      "| Interval cancers per 1,000 | 0.3 | 0.3 |",
+      "Interval cancers were identified from the hosting Trust's breast service records up to 30 September 2026, a median of 6 months after the screening episode. The rate was the same in both arms.",
+      "The programme has 3.5 WTE film-reader vacancies and has missed the 36-month round-length standard in 2 of 4 units."
+    ],
+    "rationale": "The reported equality is supported as an early, local observation. It does not establish interval-cancer non-inferiority over the screening interval or capture cancers diagnosed elsewhere. Detection, recall and continued arbitration provide useful positive evidence, but the unqualified interval-cancer reassurance outruns the observation window. Longer, more complete ascertainment is directly relevant, not a demand for zero risk."
+  },
+  {
+    "key_id": "K007",
+    "bounded_claim": "No clinically significant original-film finding was identified in the 212 autonomous reports selected for discrepancy review.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Live verification selects patients with subsequent imaging or raised concerns.", "Unreviewed autonomous reports lack an independent check.", "Shadow reference reports could be influenced by visible AI flags; NLP labels add an unquantified extraction step."],
+    "evidence_quotes": [
+      "the device's triage flag was displayed on the radiologists' worklist.",
+      "Reference labels (normal/abnormal) were extracted from the issued radiologist reports by the Trust's natural-language processing tool.",
+      "212 examinations were reviewed under this process; none showed a clinically significant finding on the original film."
+    ],
+    "rationale": "The literal result for reviewed cases is supported. It cannot estimate missed findings across all 6,830 autonomous reports because verification depends on later events or clinician concern. The shadow reference is also not clearly independent of the AI. A signed safety case and no reported incidents do not repair these ascertainment and reference-label limitations."
+  },
+  {
+    "key_id": "K008",
+    "bounded_claim": "Trust-recorded 30-day readmission and death rates were 8.1% and 1.2% in the pilot, versus 11.4% and 1.3% on comparator wards.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Readmissions elsewhere and deaths not recorded by the Trust are outside the definition.", "Capture may differ after early discharge; direction and magnitude are unknown.", "No uncertainty bounds or accepted excess-risk margin are supplied.", "Expansion case mix and eligibility are unspecified."],
+    "evidence_quotes": [
+      "Readmission is any emergency admission to the Trust within 30 days of discharge; death is death recorded by the Trust within 30 days of discharge.",
+      "Two other acute hospitals lie within 25 miles of the Trust's catchment and admit Eastmoor residents.",
+      "Comparison rates are adjusted for age, sex and frailty score."
+    ],
+    "rationale": "The table supports the institution-limited rates, not comprehensive 30-day safety outcomes. The paper itself identifies alternative hospitals, making omitted outcome routes concrete. Adjustment addresses recorded case mix, not missing events. Consultant review and monitoring are relevant mitigations, but broad safety inference needs outcome capture adequate for patients outside the Trust. No harm difference can be inferred from the missingness alone."
+  },
+  {
+    "key_id": "K009",
+    "bounded_claim": "All 99 melanoma or SCC cases diagnosed by the named Trust services during January–June 2026 had been routed to consultant review.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Case-first review omits cancers not diagnosed by those services during the pilot window.", "Returned patients have no systematic outcome follow-up or independent sample verification.", "100% of known cases routed onward does not establish sensitivity among all true cases."],
+    "evidence_quotes": [
+      "All melanoma and SCC diagnoses made by the Trust's dermatology and plastic surgery services between 6 January and 30 June 2026 among patients from the pilot practices (n = 99) were traced back to their device outcome.",
+      "All 99 had been routed to consultant review; none had been returned to primary care.",
+      "consultant teledermatologists agreed with the device's referral category in 96.2% of the 2,611 referrals they reviewed."
+    ],
+    "rationale": "The review supports the route taken by already ascertained cancers. It does not establish the absence of cancers among patients removed from specialist review, including delayed or elsewhere diagnoses. Agreement in referred patients examines a different group. Consequently the literal observation is valid but insufficient for the implied missed-cancer safety assurance."
+  },
+  {
+    "key_id": "K010",
+    "bounded_claim": "No colorectal cancer was recorded at colonoscopy within 90 days among patients classified AI low risk.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Outcome ascertainment depends on the procedure the low-risk pathway deliberately defers.", "The 90-day window barely reaches the planned three-month repeat test.", "Other diagnostic routes and later diagnoses are omitted.", "19% did not complete the repeat FIT."],
+    "evidence_quotes": [
+      "1,050 patients (29.8%) classified as low risk were managed in primary care with a repeat FIT at 3 months instead of urgent colonoscopy.",
+      "Definition: \"Cancers in AI low-risk group\" = colorectal cancers diagnosed at colonoscopy within 90 days of the triage decision in patients the model classified as low risk, from the endoscopy reporting system (data to 30 September 2026).",
+      "| Repeat FIT completed in low-risk group | 81% |"
+    ],
+    "rationale": "Zero diagnoses under the stated definition is a supported record-based observation. The definition is poorly aligned with detecting misses in a group diverted from early colonoscopy: it excludes other routes and most time after scheduled retesting. Incomplete repeat testing further weakens the safety net. The paper therefore cannot support broad control of the missed-cancer risk."
+  },
+  {
+    "key_id": "K011",
+    "bounded_claim": "None of the 236 patients identified with referable retinopathy has been lost to follow-up.",
+    "bounded_assessment": "unsupported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Referral dispatch and non-rejection do not document attendance or completed assessment.", "312 ungradable cases leave pilot outcome tracking after invitation elsewhere.", "Improved AI-negative verification does not resolve referral follow-through."],
+    "evidence_quotes": [
+      "Every patient with referable retinopathy had a referral sent to the HES within two weeks of screening, and no referral was rejected or returned; no patient with referable retinopathy has therefore been lost to follow-up.",
+      "Patients with ungradable images are recorded as \"screen incomplete\" and invited to the routine screening programme, which manages their recall; they are excluded from the pilot outcome measures.",
+      "One patient had referable retinopathy (0.4%; one-sided 95% upper bound 2.0%, below the 2.5% threshold agreed by the Diabetes Clinical Network before the pilot)."
+    ],
+    "rationale": "The negative-result audit provides meaningful, independently checked evidence against the agreed miss threshold. Nevertheless, the paper's explicit no-loss claim is inferred from referral transmission rather than actual assessment. Ungradable patients also lack documented completion. This is a specific unresolved care-chain risk; better diagnostic verification cannot substitute for follow-through evidence."
+  },
+  {
+    "key_id": "K012",
+    "bounded_claim": "All 236 identified referable cases and all 312 ungradable cases received assessment within 20 weeks; 98.2% attended within 13 weeks, exceeding the agreed 95% standard.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "contestable",
+    "acceptable_assurance": ["limited", "reasonable"],
+    "concerns": ["AI-negative regrading reports agreement without specifying clinically consequential disagreements or uncertainty.", "Single-grader audit independence and adjudication are not described.", "Follow-through assurance is stronger than assurance about initially missed disease."],
+    "evidence_quotes": [
+      "232 of the 236 patients with referable retinopathy attended HES assessment within 13 weeks of referral; the remaining 4 attended within 20 weeks after navigator contact.",
+      "Patients with ungradable images are referred for slit-lamp assessment and are included in the follow-through measure: 306 of the 312 attended within 13 weeks and 6 within 20 weeks.",
+      "a senior grader re-graded a random 5% sample of AI \"no referable retinopathy\" results; agreement 98.7%."
+    ],
+    "rationale": "Linked attendance records directly support the follow-through claim, including difficult-to-grade cases; the agreed timeliness standard allows the documented late assessments. A random negative-result audit is useful additional evidence, but agreement alone leaves the seriousness and uncertainty of disagreements unclear. Reasonable assurance could be defended under an adequately interpreted audit; limited assurance is also defensible for the broader safety claim."
+  },
+  {
+    "key_id": "K013",
+    "bounded_claim": "No colorectal cancer was diagnosed by any route within 12 months among 1,044 linked AI-low-risk patients; the upper confidence bound was below the pre-agreed threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable"],
+    "concerns": ["19% did not complete the recommended repeat FIT; rollout should maintain follow-through controls.", "Ethnicity data are 71% complete."],
+    "evidence_quotes": [
+      "Definition: \"Cancers in AI low-risk group\" = colorectal cancers diagnosed by any route within 12 months of the triage decision in patients the model classified as low risk, from linkage of all 3,520 patients to the national cancer registry (linkage 99.4%).",
+      "0 of 1,044 linked low-risk patients (one-sided 95% upper bound 0.29%, below the 0.5% threshold agreed by the Lower GI Pathway Group before the pilot).",
+      "| Repeat FIT completed in low-risk group | 81% |"
+    ],
+    "rationale": "Outcome capture follows the diverted population across diagnostic routes and beyond scheduled retesting, with quantified uncertainty below an agreed limit. This materially supports the main missed-cancer assurance without requiring every patient to undergo colonoscopy. Assuming rollout preserves the evaluated pathway, reasonable assurance is defensible. Repeat-test noncompletion remains an operational concern but does not erase the linked outcome evidence."
+  },
+  {
+    "key_id": "K014",
+    "bounded_claim": "The evaluated pilot configuration produced no identified melanoma or SCC within follow-up among 1,398 linked patients returned to primary care, with an upper bound below the agreed threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Rollout changes the benign-confidence threshold and expands the returned group from 35% to an expected 52%.", "No safety estimate is supplied for the newly returned group under version 4.0.", "Continued marking and retrospective throughput predictions do not establish equivalent local missed-cancer risk."],
+    "evidence_quotes": [
+      "none among returned patients (0 of 1,398 linked; one-sided 95% upper bound 0.21%, below the 0.5% threshold agreed by the Programme Board before the pilot).",
+      "From 1 November all sites, including the pilot practices, move to the manufacturer's software version 4.0, which is covered by the existing UKCA marking.",
+      "Version 4.0 uses a recalibrated benign-confidence threshold; the manufacturer's retrospective testing indicates the proportion returned to primary care rises from 35% to 52%."
+    ],
+    "rationale": "The historical pilot result remains well supported. The proposed configuration deliberately changes who avoids specialist review, so the old group's safety bound cannot be assigned to the larger new group. The paper supplies a throughput prediction, not bridging evidence about the new threshold's missed-cancer risk. This specific transfer failure limits assurance on rollout."
+  },
+  {
+    "key_id": "K015",
+    "bounded_claim": "All identified referable and ungradable cases reached assessment within 20 weeks, the 13-week attendance standard was met, and the independent AI-negative audit's miss-rate upper bound was below the agreed threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable", "substantial"],
+    "concerns": [],
+    "evidence_quotes": [
+      "No patient with referable retinopathy is without a recorded specialist assessment. The standard agreed by the Diabetes Clinical Network before the pilot (attendance within 13 weeks for at least 95%) was met.",
+      "Patients with ungradable images are referred for slit-lamp assessment and are included in the follow-through measure: 306 of the 312 attended within 13 weeks and 6 within 20 weeks.",
+      "One patient had referable retinopathy (0.4%; one-sided 95% upper bound 2.0%, below the 2.5% threshold agreed by the Diabetes Clinical Network before the pilot). All AI-negative patients remain in annual recall."
+    ],
+    "rationale": "The paper separately addresses the principal detection and follow-through risks: blinded independent sampling checks negative results, and linked attendance records cover positive and ungradable cases. The documented delays and sampled miss fit the prospectively accepted limits rather than contradicting them. Assuming the same pathway and controls continue across clinics, positive broad assurance is defensible without claiming perfect detection or timeliness."
+  },
+  {
+    "key_id": "K016",
+    "bounded_claim": "The pilot's adjusted, nationally linked 30-day readmission and mortality results met the committee's prospective one-percentage-point non-inferiority margin.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "contestable",
+    "acceptable_assurance": ["limited", "reasonable"],
+    "concerns": ["Pilot eligibility and the additional wards' case mix are not specified.", "Transferability to the enlarged service is assumed rather than demonstrated.", "Additional nursing recruitment remains incomplete."],
+    "evidence_quotes": [
+      "outcomes were obtained by NHS-number linkage to national hospital episode statistics and to civil death registrations (linkage 99.6%), so readmission to any NHS hospital and death in any setting are included.",
+      "The difference in readmission (−3.3 points; 95% CI −5.0 to −1.6) and in mortality (−0.1 points; 95% CI −0.8 to 0.6) both met the non-inferiority margin of 1 percentage point agreed by this committee before the pilot.",
+      "Extension requires 9.4 WTE additional nurses; recruitment is under way."
+    ],
+    "rationale": "The outcome evidence credibly supports pilot non-inferiority and the described safeguards are relevant. The paper does not document a changed population, so such a change should not be invented. It also does not establish similarity of rollout eligibility or case mix. Reasonable assurance depends on unchanged selection and ready staffing; without those assumptions, limited assurance is defensible."
+  },
+  {
+    "key_id": "K017",
+    "bounded_claim": "Across all 1,162 enrollees, six-month mortality met the prespecified two-percentage-point non-inferiority margin; recorded admissions were lower than in matched comparators.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable"],
+    "concerns": ["Matched observational comparison does not remove all selection or confounding.", "Lower uptake in deprived communities and additional staffing remain implementation considerations."],
+    "evidence_quotes": [
+      "Analysis population: all 1,162 enrolled patients from the date of enrolment, regardless of withdrawal or admission (intention to treat); 214 patients stopped monitoring early and are included.",
+      "Outcomes are from national hospital episode statistics and civil death registrations (linkage 99.5%). The mortality difference (−0.3 points; 95% CI −1.9 to 1.3) met the non-inferiority margin of 2 percentage points agreed by the Cardiovascular Clinical Network before the service began.",
+      "the hazard of a missed deterioration flag is rated medium and acceptable with mitigations (routine calls, patient safety-netting)."
+    ],
+    "rationale": "Including early discontinuations and national outcomes avoids selecting only successful monitoring completers. Matching, an explicit mortality bound and the agreed margin support proportionate assurance for the evaluated service, alongside clinical response and safety-netting. Assuming the same eligible population and funded staffing at expansion, reasonable assurance is defensible. The observed admission reduction is not definitive proof of causation."
+  },
+  {
+    "key_id": "K018",
+    "bounded_claim": "No melanoma or SCC was identified during at least 12 months of linked follow-up among the 1,398 linked patients returned to primary care, with uncertainty below the agreed threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable"],
+    "concerns": ["Rollout configuration continuity is assumed; the paper does not specify software version or threshold."],
+    "evidence_quotes": [
+      "All 4,020 pilot patients, including the 1,409 returned to primary care, were linked by NHS number to the regional cancer registry and to GP records with at least 12 months' follow-up from triage (linkage 99.2%).",
+      "none among returned patients (0 of 1,398 linked; one-sided 95% upper bound 0.21%, below the 0.5% threshold agreed by the Programme Board before the pilot).",
+      "The North and East localities (27 practices, 212,000 registered patients) have a similar age and ethnicity profile to the pilot practices."
+    ],
+    "rationale": "The returned group is meaningfully followed, rather than inferred safe from known referred cancers. Linked outcomes, independent sample review, matched expansion demographics and safety-netting support reasonable assurance for continuation of this pathway. I assume no unreported configuration change: the paper gives no positive evidence of one. Explicit configuration confirmation would strengthen transfer assurance, but absence of that detail alone does not defeat the evidence."
+  },
+  {
+    "key_id": "K019",
+    "bounded_claim": "Independent blinded review found no clinically significant finding in a random sample of 683 autonomous normal reports; the upper bound was below the agreed 1% threshold.",
+    "bounded_assessment": "supported",
+    "broad_assurance_assessment": "sufficient",
+    "acceptable_assurance": ["reasonable", "substantial"],
+    "concerns": ["Positive rollout assurance assumes equivalent intended-use populations and configuration at the additional sites."],
+    "evidence_quotes": [
+      "4,000 consecutive examinations were independently double-reported by two consultant radiologists blinded to the device output, with a third resolving disagreements; this consensus was the reference label.",
+      "a random 10% sample of autonomously reported examinations (683) was double-read by two consultant radiologists blinded to the device output.",
+      "No clinically significant finding was identified (one-sided 95% upper bound 0.44%, below the 1% threshold set by the Diagnostics Board before go-live). The sampling continues at 5% after extension."
+    ],
+    "rationale": "Blinded independent reference reading addresses circular validation, while random live verification checks reports without requiring later symptoms or imaging. Quantified uncertainty meets the agreed threshold, and ongoing sampling provides a rollout control. Assuming equivalent intended use and configuration at the additional sites, positive assurance is proportionate. Zero identified sample misses does not mean every autonomous report is correct."
+  },
+  {
+    "key_id": "K020",
+    "bounded_claim": "None of the 236 patients identified with referable retinopathy has been lost to follow-up.",
+    "bounded_assessment": "unsupported",
+    "broad_assurance_assessment": "insufficient",
+    "acceptable_assurance": ["limited"],
+    "concerns": ["Referral transmission and non-rejection do not establish completed specialist assessment.", "Ungradable patients are excluded from pilot outcomes after referral to another programme.", "Negative-result audit agreement does not specify clinically important disagreements or uncertainty."],
+    "evidence_quotes": [
+      "Every patient with referable retinopathy had a referral sent to the HES within two weeks of screening, and no referral was rejected or returned; no patient with referable retinopathy has therefore been lost to follow-up.",
+      "Patients with ungradable images are recorded as \"screen incomplete\" and invited to the routine screening programme, which manages their recall; they are excluded from the pilot outcome measures.",
+      "a senior grader re-graded a random 5% sample of AI \"no referable retinopathy\" results; agreement 98.7%."
+    ],
+    "rationale": "Uptake and referral dispatch are documented improvements, but neither proves that patients receive the necessary assessment. The explicit no-loss conclusion exceeds the referral-system evidence; incomplete screens also disappear from reported outcomes. The negative audit adds useful but incompletely characterised diagnostic evidence. Broad assurance on the end-to-end pathway is therefore limited, without implying that actual losses or harms have been demonstrated."
+  }
+]

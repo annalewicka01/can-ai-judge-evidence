@@ -1,0 +1,236 @@
+{
+  "version": "messy-evidence-v1",
+  "synthetic": true,
+  "cases": [
+    {
+      "id": "M01",
+      "split": "evaluation",
+      "family": "skin_triage",
+      "sources": [
+        "S1",
+        "S5",
+        "S6"
+      ],
+      "title": "District skin-service contract renewal",
+      "dossier": "The commissioning board is reviewing an AI-assisted skin-referral service. Its dashboard shows shorter specialist queues and fewer hospital visits. A quarterly quality letter describes the diagnostic follow-up as reassuring and reports no new safety signal. The board paper proposes saying: 'The monitoring establishes that patients returned to primary care have no material excess of delayed serious diagnosis.' Practices receive the routing letter and may refer a patient again. Patients who move practice, seek private care or use a neighbouring district do not necessarily return through the original service. The quality team says its return includes completed follow-up episodes; the information team says the district register has coverage beyond the hospital. Neither team has signed the other's population description. A practice representative reports that some returned patients disappear from the shared worklist after their letter is delivered. A patient advocate says she has heard of serious diagnoses elsewhere, but provides no records that establish dates, eligibility or a connection to the pathway. Managers ask the board not to lose the demonstrated waiting-time improvement because of anecdote. The renewal meeting is in two weeks. The board has not agreed what additional delay would be clinically material, and the available nurse allocation is modest. The decision can retain a capped service with clinician access, change the monitoring conditions, or defer adding practices. The committee needs defensible public wording and a feasible next step.",
+      "claim": "The monitoring establishes that patients returned to primary care have no material excess of delayed serious diagnosis.",
+      "documents": [
+        {
+          "id": "R2",
+          "title": "Contract and finance return",
+          "body": "Waiting-list and appointment reductions are observed operational measures. Renewal at the current cap is affordable; adding practices depends on avoiding extra hospital appointments. The contract has no fixed clinical non-inferiority margin. Finance can fund a limited follow-up exercise but not universal diagnostic testing before the meeting."
+        },
+        {
+          "id": "R5",
+          "title": "Patient liaison correspondence",
+          "body": "Three correspondents mention later diagnoses outside the district. Dates and original routing are not verified and none has consented to transfer clinical records for this review. These reports are leads for follow-up, not established pathway-caused events. Other respondents praise faster appointments; the correspondence is not a representative survey."
+        },
+        {
+          "id": "R1",
+          "title": "Quarterly quality letter",
+          "body": "The quality team's reassuring comparison uses records with a completed hospital episode or a returned primary-care outcome form. Among these reconciled records, reviewed diagnoses did not suggest an obvious worsening. It includes selected patients from both urgent and returned routes. The letter does not give the number of eligible returned patients without a reconciled outcome or a justified effect-size bound. It was circulated before the information team's linkage note was finalized."
+        },
+        {
+          "id": "R4",
+          "title": "Nursing allocation email",
+          "body": "One nurse can work on a consented probability sample of returned referrals, with clinician escalation for symptoms or concerning findings. The sampling frame can be the original routing register, not only open worklist entries. Outside-provider agreements and mature delayed-diagnosis follow-up will take longer than two weeks. Calling patients can also change their care, so the exercise must describe both ascertainment and intervention. No event-rate estimate or agreed material-risk margin exists for a defensible precise sample-size promise."
+        },
+        {
+          "id": "R6",
+          "title": "Register and linkage note",
+          "body": "The original routing register retains all received referrals. The dashboard's completed follow-up denominator is produced after linkage to a hospital closure record or a returned practice form. A routing-letter delivery closes the worklist item, but is not an outcome assessment. Returned patients without a later local event or practice form are not in the clinical comparison. Cross-district and private care are not linked; people moving practice may lose the return-form route. Their diagnostic outcomes are unknown. The quality letter's phrase 'returned patients' therefore names a selected subset, not everyone returned by the service."
+        },
+        {
+          "id": "R3",
+          "title": "Partner-provider response",
+          "body": "Clinical follow-up records from the neighbouring district and private providers cannot be supplied before the renewal meeting. No linkage agreement for this audit is active, and staff cannot retrospectively fill missing diagnoses from billing or letter-delivery logs. An agreement and consented record request could be developed for a later audit. The response contains no estimate of how many returned patients have serious lesions. It neither confirms the liaison anecdotes nor rules them out."
+        }
+      ],
+      "gold": {
+        "decisive_documents": [
+          "R6",
+          "R3"
+        ],
+        "initial": "not_established",
+        "informed": "not_established"
+      },
+      "rubric": {
+        "issue": "The reassuring comparison conditions on successful outcome linkage; returned patients without a local event/form, including movers and outside care, are missing. Letter delivery is not ascertainment.",
+        "action": "Request linkage/denominator evidence; acknowledge external outcomes unavailable before decision. Preserve measured waiting-time benefit, use the original referral frame for feasible follow-up and clarify outcome/margin rather than promising immediate assurance.",
+        "avoid": "Treat anecdote as proven harm, absent outside records as healthy, or promise external linkage and mature outcomes within two weeks. More of the reconciled subset does not repair the missing route."
+      }
+    },
+    {
+      "id": "M02",
+      "split": "evaluation",
+      "family": "eye_screening",
+      "sources": [
+        "S2",
+        "S5",
+        "S6"
+      ],
+      "title": "Retinal service close-out and renewal",
+      "dossier": "A diabetes service introduced AI retinal screening during routine visits. Screening coverage rose and the management dashboard describes referral completion as high. The draft renewal report says: 'All patients requiring specialist assessment in the fixed evaluation cohort received it within six months.' The fixed cohort comprises eligible positive or ungradable screens entered during January–March 2026; its six-month window is now complete. The wider service also sees later entrants, routine recall patients and people transferring between paediatric and adult clinics. Finance uses closed referral tasks as a throughput measure. The clinical team uses attendance and assessment records, and a navigator has reconciled some care delivered by other providers. The draft report was assembled from those systems by different teams. Some closed tasks denote delivered letters, redirection or patient decisions, but the executive summary does not distinguish them. A manager says remaining queries involve patients outside the evaluation cohort; a navigator says that statement needs checking against the locked cohort list. The disagreement should not erase the genuine increase in screening coverage. Renewal can continue screening while changing navigation and specialist capacity. The board needs to approve factual public wording this week; it does not require proof of improved vision outcomes to fund the service.",
+      "claim": "All patients requiring specialist assessment in the fixed evaluation cohort received it within six months.",
+      "documents": [
+        {
+          "id": "R1",
+          "title": "Finance throughput return",
+          "body": "The financial report counts referral tasks closed, not patients assessed by specialists. Closed tasks include letter delivery, administrative redirection and a patient declining an appointment. The ledger combines the fixed study cohort with later service entrants. Its high completion percentage cannot be mapped directly to clinical attendance without the locked cohort register and care reconciliation."
+        },
+        {
+          "id": "R5",
+          "title": "Navigator clinical reconciliation",
+          "body": "This service-wide reconciliation includes several enrolment periods and does not identify which rows belong to the fixed study cohort. H17 was contacted at the end of the applicable six-month window; clinical and external-provider checks confirmed that the indicated specialist assessment had not occurred. H32 declined assessment and contact at six months confirmed no assessment elsewhere. Other unresolved rows lack external records and must remain unknown, not be classified as nonattendance. H17 and H32 had administratively closed referral tasks. This return describes actual follow-through, not the causal effect of AI on attendance or vision."
+        },
+        {
+          "id": "R6",
+          "title": "Dashboard field specification",
+          "body": "'Complete' is an operational task state. A completed row can refer to an attended visit, notification sent or an administratively closed referral. The same patient may have several task rows. The dashboard does not carry a unique flag for completed indicated specialist assessment within the evaluation window. The underlying clinical data remain available separately."
+        },
+        {
+          "id": "R4",
+          "title": "Transition clinic note",
+          "body": "Several late-year service queries concern transfers between paediatric and adult clinics. This note does not establish that all outstanding care queries are outside the study cohort. It reports communication issues and an operational plan to coordinate transfers; it contains no patient-level study membership or completed-care assessment."
+        },
+        {
+          "id": "R3",
+          "title": "Service capacity email",
+          "body": "A capped renewal can preserve screening and use part of the proposed expansion allocation for navigation and protected specialist appointments. Urgent unresolved referrals can be reviewed now by the clinical lead. Following up with patients both measures and may improve care, so future evaluations should record the change. Funding does not guarantee every patient will accept or attend an appointment."
+        },
+        {
+          "id": "R2",
+          "title": "Locked cohort register",
+          "body": "The fixed evaluation cohort contains 47 January–March 2026 entries requiring specialist assessment after a positive or ungradable screen. H17 and H32 are included, entered in February and March respectively; both were due for specialist assessment and their complete six-month windows have elapsed. These are distinct patients, not duplicate task rows. Later entrants and routine-recall-only records are excluded. The register contains membership and indication only; actual care outcomes are held in the Navigator clinical reconciliation."
+        }
+      ],
+      "gold": {
+        "decisive_documents": [
+          "R2",
+          "R5"
+        ],
+        "initial": "not_established",
+        "informed": "contradicted"
+      },
+      "rubric": {
+        "issue": "Task closure differs from completed care; cohort membership and actual follow-through must be reconciled, not assumed from service-wide summaries.",
+        "action": "Join the locked cohort and clinical reconciliation: H17/H32 are included patients with confirmed noncompletion. Correct the all-completed claim, preserve screening gains, improve navigation; do not infer AI-caused harm.",
+        "avoid": "Count all unresolved records as confirmed nonattendance, assume all queries concern later entrants, or accept task closure as clinical assessment. One record alone does not settle the exact cohort claim."
+      }
+    },
+    {
+      "id": "M03",
+      "split": "evaluation",
+      "family": "metabolic_testing",
+      "sources": [
+        "S4",
+        "S5",
+        "S6"
+      ],
+      "title": "Metabolic risk programme budget review",
+      "dossier": "A primary-care network uses an EHR score to allocate metabolic testing appointments. The payer return shows reduced testing expenditure and fewer first diagnosis codes among lower-priority patients after launch. The business case calls this a prevention dividend and proposes: 'The observed reduction in new diagnosis codes demonstrates that this pathway prevented incident metabolic disease.' A model-development note describes good prediction of later recorded diagnoses. An internal reviewer says recent registrants and people with sparse histories are difficult to characterize. Failed scores go through usual clinical care; the evaluation team has not reconciled that route with its risk-stratified outcomes. Some patients receive tests outside the network. Clinical staff point out that the programme changed when patients were tested, while the payer team says its annual claims extract should be sufficient. No common baseline clinical assessment was performed before rollout. The board has ten days to decide whether to retain appointment capacity or release the anticipated savings. It can recognize expenditure reductions without making a prevention claim. Records governance has not yet approved the requested outside-provider linkage, and the nurse team cannot clinically reassess the entire eligible population this quarter. No quantitative tolerance for undetected disease has been agreed. The board wants advice that is useful despite these constraints, not a promise that every uncertainty can be resolved before the budget decision.",
+      "claim": "The observed reduction in new diagnosis codes demonstrates that this pathway prevented incident metabolic disease.",
+      "documents": [
+        {
+          "id": "R4",
+          "title": "Model development return",
+          "body": "The target is a diagnosis appearing in routine records during follow-up. Its discrimination was evaluated among patients whose available histories and follow-up supported that target. This is not a direct measure of biological onset, baseline undetected disease or prevention. Test ordering and external care affect which labels appear. The performance statistic was not a randomized evaluation of the appointment-allocation policy."
+        },
+        {
+          "id": "R2",
+          "title": "Payer claims extract note",
+          "body": "Local claims reliably show billed testing volume and coded diagnoses within the network. Billing does not independently establish that an untested patient is free of disease. External diagnoses may not generate a local claim, and a first local code may record previously existing disease. The extract has no baseline reference assessment with which to date biological onset."
+        },
+        {
+          "id": "R5",
+          "title": "Records governance reply",
+          "body": "The requested outside-provider linkage is not available for this review. No approved audit linkage and consent process is in place. A later application may permit some records, but no completeness rate can presently be promised. Unrecorded disease that was never diagnosed anywhere would not be recovered merely by linking claims. The reply supplies no patient outcome estimates and cannot establish retrospective onset."
+        },
+        {
+          "id": "R1",
+          "title": "Outcome dataset specification",
+          "body": "Risk-stratified outcome tables include people with a successful score and a recorded follow-up test or diagnosis. Lower-priority people never tested are absent from the clinical validation denominator, although they remain in cost totals. Failed-score routes are not reconciled. Sparse-history and externally tested patients may have little local follow-up. The resulting data can show expenditure and recording patterns but do not ascertain disease across all eligible patients."
+        },
+        {
+          "id": "R3",
+          "title": "Clinical capacity plan",
+          "body": "The team can retain usual-care testing capacity while planning a consented probability sample from the complete registration list, including low-priority, sparse-history and failed-score routes. Appropriate clinician-led assessment could estimate current undetected disease. It cannot retrospectively create a common baseline or prove prevention. A suitable time-aligned comparison and follow-up would be needed for that claim. One nurse has limited weekly audit time; the team needs an outcome definition and agreed decision tolerance before promising statistical precision."
+        },
+        {
+          "id": "R6",
+          "title": "Programme management minutes",
+          "body": "Managers propose releasing savings because recorded diagnoses and tests fell. The committee has not adopted a universal acceptable missed-disease rate and has not required immediate rollout. Capped continuation, retaining usual-care capacity or commissioning a staged audit are possible decisions. A report may acknowledge genuine utilization changes while withholding a clinical prevention claim."
+        }
+      ],
+      "gold": {
+        "decisive_documents": [
+          "R1",
+          "R5"
+        ],
+        "initial": "not_established",
+        "informed": "not_established"
+      },
+      "rubric": {
+        "issue": "Codes and claims depend on detection; untested, failed-score and sparsely observed patients are not adequately ascertained. Baseline disease/onset and outside outcomes remain unavailable.",
+        "action": "Separate utilization, current undetected disease and causal prevention. Propose feasible representative assessment for current disease and a suitable longitudinal comparison for prevention; explicitly retain unknown timing, linkage and decision thresholds.",
+        "avoid": "Promise linkage before the deadline, infer absence of disease from no code, claim an audit of current prevalence proves prevention, invent a precise sample/threshold, or present reduced expenditure as demonstrated health benefit."
+      }
+    },
+    {
+      "id": "M04",
+      "split": "evaluation",
+      "family": "discharge_followup",
+      "sources": [
+        "S5",
+        "S6"
+      ],
+      "title": "Follow-up allocation governance dossier",
+      "dossier": "A community service seeks to retain its capped AI-assisted follow-up pathway at the same two sites. The board pack contains a March 2025 internal audit warning that routine-route and failed-score patients could disappear from the outcome dashboard. A patient advocate has recirculated that warning and asks whether another trial is needed. The service manager says the evaluated workflow was subsequently revised, but the pack also contains older slides and a draft business case describing a possible expansion. The decision before this meeting concerns only the current capped release and existing eligible population, not the expansion draft. An October 2026 independent evaluation has been signed and can be requested. The proposed statement is: 'The current capped service met the prospectively agreed nine-month clinical-outcome criterion for its evaluated population.' The committee previously specified its acceptance rule, and the current evaluation covers mature follow-up. Routine access and clinician escalation continue for patients not assigned early calls. Funding for the current cap and surveillance is in place. The board needs to determine which concerns still apply, avoid wider claims than the evaluation supports, and decide whether further evidence is necessary before this bounded continuation.",
+      "claim": "The current capped service met the prospectively agreed nine-month clinical-outcome criterion for its evaluated population.",
+      "documents": [
+        {
+          "id": "R3",
+          "title": "March 2025 internal audit",
+          "body": "This audit concerns the early release used before the revised evaluation. It found that routine-route records and failed scores could be excluded from the dashboard unless a follow-up event generated an active record. It recommended a full pre-allocation registration frame and independent outcome ascertainment. The memo contains no results for the later evaluated release and was not updated to assess the changes."
+        },
+        {
+          "id": "R6",
+          "title": "October 2026 signed evaluation",
+          "body": "This independent report evaluates the current capped release at the same two sites and eligibility stated in the continuation request. The analysis compared randomized service allocation with usual care and used the pre-agreed nine-month clinically significant deterioration endpoint. Sampling began from all eligible registered patients before allocation, including routine-route, failed-score and non-attending patients. Blinded assessors used the same clinical reference process, external-provider records and active contact. Follow-up is mature; ascertainment reached 99.9% in each group. The prespecified one-sided 95% upper bound on excess deterioration was 0.4 percentage points, with 0.5 points in the conservative missing-outcome analysis. The committee's prospectively agreed rule required both bounds below 0.8 points. The analysis accounted for clustering and sampling weights; independent sign-off identified no material protocol departure. The report does not cover the draft expansion, other populations, mortality or zero-risk claims."
+        },
+        {
+          "id": "R5",
+          "title": "Finance and rota return",
+          "body": "The existing capped release has funded routine access, early-call staffing and surveillance for the coming period. Expansion is not funded through this return. Retention does not require demonstrating mortality benefit or claiming that no adverse outcomes will occur."
+        },
+        {
+          "id": "R1",
+          "title": "Implementation register",
+          "body": "The requested continuation uses exactly the release, two sites, eligibility rules and clinical safeguards covered by the signed October 2026 evaluation. All patients enter a registration frame before scoring or allocation. Failed scores retain clinician management. Earlier slides in the pack describe the March 2025 pilot, not the current release."
+        },
+        {
+          "id": "R2",
+          "title": "Draft expansion business case",
+          "body": "This unsigned draft proposes additional sites and broader eligibility after a later funding review. It extrapolates potential savings from the existing cap. No expansion evaluation is supplied. The draft is not the current decision and does not authorize using current evidence for new populations or versions."
+        },
+        {
+          "id": "R4",
+          "title": "Clinical surveillance plan",
+          "body": "A named clinical lead owns continuing outcome review, ascertainment checks and escalation for serious signals. Existing funding supports the current cap. A material release, population or site change requires a new applicability review. The team can monitor outcomes and access without repeating the completed trial before each quarter's continuation decision."
+        }
+      ],
+      "gold": {
+        "decisive_documents": [
+          "R6"
+        ],
+        "initial": "not_established",
+        "informed": "supported"
+      },
+      "rubric": {
+        "issue": "Determine whether the old missing-patient criticism applies to the current release and population; current independent evidence can resolve it rather than making every conflicting memo an irreducible gap.",
+        "action": "Use the signed current evaluation to accept the bounded criterion, preserve surveillance and distinguish retention from unevaluated expansion. Further investigation can be optional, not a mandatory new trial without a specific unresolved issue.",
+        "avoid": "Treat old release defects as current despite supplied resolution, withhold the exact supported claim solely because older warnings exist, demand arbitrary zero-risk proof, or generalize results to the expansion draft."
+      }
+    }
+  ]
+}

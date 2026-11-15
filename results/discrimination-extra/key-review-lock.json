@@ -1,0 +1,12 @@
+{
+  "before_action_coding": true,
+  "human_validation": false,
+  "review_counts": {
+    "a": 20,
+    "b": 20
+  },
+  "sha256": {
+    "agent-keys-a.json": "87dde7b4372c06259ea4f9042c30d98a143b5336d8d827f1ce43f6d4887307a2",
+    "agent-keys-b.json": "26511afd3f362c2816d556ce6176f4c8f8cfa24a92399df4a01f9792b5dd7240"
+  }
+}

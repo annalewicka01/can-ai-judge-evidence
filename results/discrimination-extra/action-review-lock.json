@@ -1,0 +1,11 @@
+{
+  "human_validation": false,
+  "review_counts": {
+    "a": 132,
+    "b": 132
+  },
+  "sha256": {
+    "agent-actions-a.json": "f3691f7787253ac3c40db66672c65f1fda32f16a270124e22895d4d8a5aeffd6",
+    "agent-actions-b.json": "5b991924bd24abfe28c11fef32ae559fb24e7ea639f9c94ae2344b62f1aafa0d"
+  }
+}

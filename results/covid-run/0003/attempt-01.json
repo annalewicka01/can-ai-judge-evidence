@@ -1,0 +1,8 @@
+{
+  "finished_at": "2026-11-14T12:47:38.507489+00:00",
+  "request_id": null,
+  "retryable": true,
+  "started_at": "2026-11-14T12:47:07.393797+00:00",
+  "status": null,
+  "transport_error": "SSLEOFError"
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "family": "G2",
+    "iteration": 3,
+    "key_id": "K001",
+    "original_variant": "adequate",
+    "paper_id": "G2A"
+  },
+  {
+    "family": "G2",
+    "iteration": 3,
+    "key_id": "K002",
+    "original_variant": "deficient",
+    "paper_id": "G2D"
+  },
+  {
+    "family": "G3",
+    "iteration": 3,
+    "key_id": "K003",
+    "original_variant": "deficient",
+    "paper_id": "G3D"
+  },
+  {
+    "family": "G1",
+    "iteration": 3,
+    "key_id": "K004",
+    "original_variant": "adequate",
+    "paper_id": "G1A"
+  },
+  {
+    "family": "F5",
+    "iteration": 2,
+    "key_id": "K005",
+    "original_variant": "adequate",
+    "paper_id": "F5A"
+  },
+  {
+    "family": "F5",
+    "iteration": 2,
+    "key_id": "K006",
+    "original_variant": "deficient",
+    "paper_id": "F5D"
+  },
+  {
+    "family": "F2",
+    "iteration": 2,
+    "key_id": "K007",
+    "original_variant": "deficient",
+    "paper_id": "F2D"
+  },
+  {
+    "family": "F4",
+    "iteration": 2,
+    "key_id": "K008",
+    "original_variant": "deficient",
+    "paper_id": "F4D"
+  },
+  {
+    "family": "F1",
+    "iteration": 2,
+    "key_id": "K009",
+    "original_variant": "deficient",
+    "paper_id": "F1D"
+  },
+  {
+    "family": "G4",
+    "iteration": 3,
+    "key_id": "K010",
+    "original_variant": "deficient",
+    "paper_id": "G4D"
+  },
+  {
+    "family": "F3b",
+    "iteration": 3,
+    "key_id": "K011",
+    "original_variant": "deficient",
+    "paper_id": "F3bD"
+  },
+  {
+    "family": "F3",
+    "iteration": 2,
+    "key_id": "K012",
+    "original_variant": "adequate",
+    "paper_id": "F3A"
+  },
+  {
+    "family": "G4",
+    "iteration": 3,
+    "key_id": "K013",
+    "original_variant": "adequate",
+    "paper_id": "G4A"
+  },
+  {
+    "family": "G1",
+    "iteration": 3,
+    "key_id": "K014",
+    "original_variant": "deficient",
+    "paper_id": "G1D"
+  },
+  {
+    "family": "F3b",
+    "iteration": 3,
+    "key_id": "K015",
+    "original_variant": "adequate",
+    "paper_id": "F3bA"
+  },
+  {
+    "family": "F4",
+    "iteration": 2,
+    "key_id": "K016",
+    "original_variant": "adequate",
+    "paper_id": "F4A"
+  },
+  {
+    "family": "G3",
+    "iteration": 3,
+    "key_id": "K017",
+    "original_variant": "adequate",
+    "paper_id": "G3A"
+  },
+  {
+    "family": "F1",
+    "iteration": 2,
+    "key_id": "K018",
+    "original_variant": "adequate",
+    "paper_id": "F1A"
+  },
+  {
+    "family": "F2",
+    "iteration": 2,
+    "key_id": "K019",
+    "original_variant": "adequate",
+    "paper_id": "F2A"
+  },
+  {
+    "family": "F3",
+    "iteration": 2,
+    "key_id": "K020",
+    "original_variant": "deficient",
+    "paper_id": "F3D"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-14",
+  "reviewer": "Anna Maria Lewicka",
+  "sha256": {
+    "keys/C17.md": "17f73521c216a81d922a3aeeeb41e9a4c4e743a3e38e768e67817444c1281d5a",
+    "keys/C36.md": "59d3670bd962370b04926df1c46bae15f9016554673eb5ab063880d515d73ed8",
+    "keys/C42.md": "6d1a0f84cd5f2b1e9059e9806cf5fbffa61d0b2dc88571a006c3cd125360aa30",
+    "keys/C94.md": "2509c5596371f240aa2b06a9009d4e1e7478788c3af5852c395ec135b86a8167",
+    "packets/C17.md": "8ec01e930c1a2a00526690c5051e73e4d22c9c25ac0122ab0f4a18d4d82f3cce",
+    "packets/C36.md": "f9d1d4d53df2c80707cd9b6599c866bfa130c2aa355526b934b535fb9f1a9797",
+    "packets/C42.md": "ff4519d565e25ca8ceab3472d13def58bb8a6e2c52d551b80819fd35fb045601",
+    "packets/C94.md": "d013cefdd21be798ba5b410bb3d231ad9dd98bfea664c5d2668545f2c6fd2b7b"
+  }
+}

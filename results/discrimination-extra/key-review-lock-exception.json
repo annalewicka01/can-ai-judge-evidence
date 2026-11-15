@@ -1,0 +1,12 @@
+{
+  "date": "2026-11-14",
+  "event": "Parent locked reviewer B file during its final wording cleanup.",
+  "key_id": "K010",
+  "locked_sha256": "26511afd3f362c2816d556ce6176f4c8f8cfa24a92399df4a01f9792b5dd7240",
+  "temporary_cleanup_sha256": "16ef3ec26dbfacf3d4b9850ea63ad89aa2afaf11de6ff9400da2ee361fe98167",
+  "locked_bounded_claim": "No colorectal cancer was missed in the AI low-risk group managed without urgent colonoscopy.",
+  "reviewer_clarification": "The hazard of colorectal cancer being classified low risk is low and acceptable, based on no cancer identified in the AI low-risk group.",
+  "reason": "Reviewer clarified the claim to avoid equating identified cancers with missed cancers; no assessment, assurance category, evidence quotation or other JSON content changed.",
+  "timing": "Reviewer reports clarification preceded the second assignment and any exposure to action packets. Parent detected the checksum mismatch afterward.",
+  "resolution": "Restored the exact originally locked file; reversal of this single string reproduces the original checksum. Clarification retained here separately; no rating or historical benchmark key changed."
+}

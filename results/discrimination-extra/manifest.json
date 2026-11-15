@@ -1,0 +1,42 @@
+{
+  "agent_assignment_sizes": {
+    "a": 132,
+    "b": 132
+  },
+  "analysis": "retrospective-existing-output-v1",
+  "completed_answer_objects": 873,
+  "date": "2026-11-14",
+  "independent_clinical_validation": false,
+  "keys": 20,
+  "new_model_api_calls": 0,
+  "overlap_answers": 24,
+  "packet_sha256": {
+    "action-packets-a.json": "ab8a6f1a3dd51d564bfa5f7078d8982ad0eba92d744102827656a1e005a51d73",
+    "action-packets-all.json": "3ddac3dd9495b2bc1a708716572c123fbc656c851844707047c3789b63ca78b9",
+    "action-packets-b.json": "9308d015d51f8dae905b6d76467fc8e583232cc0cef2749d1c38c13f3f7d25a2",
+    "human-action-reviewer-1.json": "aedeb9c252ffb759713ea3752a968a33e70c86c250b57e68b9edd6c3d8d656a9",
+    "human-action-reviewer-2.json": "aedeb9c252ffb759713ea3752a968a33e70c86c250b57e68b9edd6c3d8d656a9",
+    "human-key-reviewer-1.json": "776691c6586ae3f972a5d592a03213da5ecbc0d496af84468eab2b7bfe8ad53d",
+    "human-key-reviewer-2.json": "776691c6586ae3f972a5d592a03213da5ecbc0d496af84468eab2b7bfe8ad53d",
+    "key-packets.json": "5a578fa4c86e6dc3dab517f31f1673477554a3602484d5c5b7e5bd22bd28de41",
+    "private-answer-map.json": "855cbecbd33bff1806c0f7f8726dafee886eee421713fddf0f0c98906902ac6f",
+    "private-key-map.json": "bfa6975fcfb7834196167a1f66e4a28110728619302f808e50ec8d3ed20bde6b",
+    "private-overlap.json": "758a5fd1a73dfcd0d6363eed0ee59d55dd53bbb315bced8f73e115885e178007"
+  },
+  "primary_action_answers": 240,
+  "seed": 2026111409,
+  "source_sha256": {
+    "/Users/oalw/would-we-notice/experiments/discrimination/EXISTING_OUTPUTS_ANALYSIS.md": "a49848457337ac06b1b49f545bc098b6c15999c44750ba8f7ee0a07566e62a4e",
+    "/Users/oalw/would-we-notice/results/discrimination-summary.json": "dac2b2f359182214cd454ab287be4906f1561f3b56b9b0e96e35eafd1b15cd8d",
+    "/Users/oalw/would-we-notice/runs/disc-iter2/freeze.json": "377a3029ee1cd103f3857b348f8b97eb703f3ba4c75f768ea604e3b0233572fe",
+    "/Users/oalw/would-we-notice/runs/disc-iter2/results-recovered.json": "38544159892d332e754c99bdca56984ccbda1a41456f1b9e326797e81483e1fa",
+    "/Users/oalw/would-we-notice/runs/disc-iter3/freeze.json": "10573e91509362b347d90fa3ffabdf474f3317029b5456aa347cb458f4df78d7",
+    "/Users/oalw/would-we-notice/runs/disc-iter3/results-recovered.json": "586fb11f2e7b19c2aad38f0e3c48118c65d30c4bdbb9f7829044f369834b7d97",
+    "/Users/oalw/would-we-notice/runs/disc-iter4/freeze.json": "ffd4374a6b10bed50cba38869afea46b6668958d73638db73c8c69ad361e562d",
+    "/Users/oalw/would-we-notice/runs/disc-iter4/results-recovered.json": "6a7e9ff48b77b51dc6b03c40ec13b62d7df3cc9d1a0e446a01add45f74a601c2",
+    "/Users/oalw/would-we-notice/runs/disc-iter5/freeze.json": "bca28428cff7f770516aa28479ae6dcc49deeb1e772dc936e167488f8bf41407",
+    "/Users/oalw/would-we-notice/runs/disc-iter5/results-recovered.json": "01d8731570225a31b98a7700dd6d17af64421eb9947119a3cd86c5fdc99709f5",
+    "/Users/oalw/would-we-notice/runs/disc-iter6/freeze.json": "3a523a52f0d784bf2546f43f7feb9c9caa5ecf79719130236b38d89a377a1c27",
+    "/Users/oalw/would-we-notice/runs/disc-iter6/results.json": "673276e99c7290d8422b46bd8c788f85a556291f0794b65be71baf465ff21e30"
+  }
+}
