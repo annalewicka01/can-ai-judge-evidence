@@ -7,7 +7,7 @@ Evidence*, [paper/can-ai-judge-evidence.pdf](paper/can-ai-judge-evidence.pdf).
 
 - `experiments/discrimination/`: matched committee papers, runners, judge, grading and analysis.
 - `experiments/covid_policy/`: COVID-19 transfer check: sources, packets, keys, runner.
-- `runs/`: frozen requests, raw responses and grading inputs.
+- `runs.tar.gz`: frozen requests, raw responses and grading inputs (extract to `runs/` first).
 - `results/`: saved tables, action coding and COVID grades.
 - `review/`: blind review of the answer keys (Claude Opus 5.5 and a joint human review).
 - `archive/old-human-review/`: human-review packets read by the analysis.
@@ -18,6 +18,7 @@ Evidence*, [paper/can-ai-judge-evidence.pdf](paper/can-ai-judge-evidence.pdf).
 ## Reproduce
 
 ```sh
+tar -xzf runs.tar.gz
 python3.12 -m venv .venv
 .venv/bin/python -m pip install -r requirements-lock.txt
 .venv/bin/python -m pip install --no-deps -e .
